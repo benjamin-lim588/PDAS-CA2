@@ -1,0 +1,1921 @@
+year,sex,industry1,industry2,employment_status,employed
+2010,Male,Manufacturing,Manufacturing,Employers,10800
+2010,Male,Manufacturing,Manufacturing,Employees,170500
+2010,Male,Manufacturing,Manufacturing,Own Account Workers,4400
+2010,Male,Manufacturing,Manufacturing,Contributing Family Workers,400
+2010,Male,Construction,Construction,Employers,11000
+2010,Male,Construction,Construction,Employees,62000
+2010,Male,Construction,Construction,Own Account Workers,7500
+2010,Male,Construction,Construction,Contributing Family Workers,200
+2010,Male,Services,Wholesale And Retail Trade,Employers,20600
+2010,Male,Services,Wholesale And Retail Trade,Employees,104000
+2010,Male,Services,Wholesale And Retail Trade,Own Account Workers,16400
+2010,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1400
+2010,Male,Services,Transportation And Storage,Employers,4000
+2010,Male,Services,Transportation And Storage,Employees,97800
+2010,Male,Services,Transportation And Storage,Own Account Workers,44100
+2010,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2010,Male,Services,Accommodation And Food Services,Employers,5100
+2010,Male,Services,Accommodation And Food Services,Employees,46900
+2010,Male,Services,Accommodation And Food Services,Own Account Workers,6800
+2010,Male,Services,Accommodation And Food Services,Contributing Family Workers,1400
+2010,Male,Services,Information And Communications,Employers,3800
+2010,Male,Services,Information And Communications,Employees,55300
+2010,Male,Services,Information And Communications,Own Account Workers,3500
+2010,Male,Services,Information And Communications,Contributing Family Workers,0
+2010,Male,Services,Financial And Insurance Services,Employers,1800
+2010,Male,Services,Financial And Insurance Services,Employees,48200
+2010,Male,Services,Financial And Insurance Services,Own Account Workers,7100
+2010,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2010,Male,Services,Real Estate Services,Employers,800
+2010,Male,Services,Real Estate Services,Employees,11300
+2010,Male,Services,Real Estate Services,Own Account Workers,7700
+2010,Male,Services,Real Estate Services,Contributing Family Workers,0
+2010,Male,Services,Professional Services,Employers,7100
+2010,Male,Services,Professional Services,Employees,45800
+2010,Male,Services,Professional Services,Own Account Workers,5400
+2010,Male,Services,Professional Services,Contributing Family Workers,100
+2010,Male,Services,Administrative And Support Services,Employers,3200
+2010,Male,Services,Administrative And Support Services,Employees,49100
+2010,Male,Services,Administrative And Support Services,Own Account Workers,3000
+2010,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2010,Male,Services,Public Administration And Education,Employers,1000
+2010,Male,Services,Public Administration And Education,Employees,136100
+2010,Male,Services,Public Administration And Education,Own Account Workers,5500
+2010,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2010,Male,Services,Health And Social Services,Employers,2500
+2010,Male,Services,Health And Social Services,Employees,17700
+2010,Male,Services,Health And Social Services,Own Account Workers,900
+2010,Male,Services,Health And Social Services,Contributing Family Workers,0
+2010,Male,Services,"Arts, Entertainment And Recreation",Employers,700
+2010,Male,Services,"Arts, Entertainment And Recreation",Employees,14800
+2010,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1600
+2010,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2010,Male,Services,"Other Community, Social And Personal Services",Employers,3800
+2010,Male,Services,"Other Community, Social And Personal Services",Employees,19800
+2010,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,5100
+2010,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2010,Male,Others,Others,Employers,1700
+2010,Male,Others,Others,Employees,24900
+2010,Male,Others,Others,Own Account Workers,1400
+2010,Male,Others,Others,Contributing Family Workers,100
+2010,Female,Manufacturing,Manufacturing,Employers,2100
+2010,Female,Manufacturing,Manufacturing,Employees,101500
+2010,Female,Manufacturing,Manufacturing,Own Account Workers,1200
+2010,Female,Manufacturing,Manufacturing,Contributing Family Workers,400
+2010,Female,Construction,Construction,Employers,1400
+2010,Female,Construction,Construction,Employees,21400
+2010,Female,Construction,Construction,Own Account Workers,200
+2010,Female,Construction,Construction,Contributing Family Workers,200
+2010,Female,Services,Wholesale And Retail Trade,Employers,7300
+2010,Female,Services,Wholesale And Retail Trade,Employees,122400
+2010,Female,Services,Wholesale And Retail Trade,Own Account Workers,7000
+2010,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2700
+2010,Female,Services,Transportation And Storage,Employers,1200
+2010,Female,Services,Transportation And Storage,Employees,43300
+2010,Female,Services,Transportation And Storage,Own Account Workers,800
+2010,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2010,Female,Services,Accommodation And Food Services,Employers,2900
+2010,Female,Services,Accommodation And Food Services,Employees,59600
+2010,Female,Services,Accommodation And Food Services,Own Account Workers,3900
+2010,Female,Services,Accommodation And Food Services,Contributing Family Workers,2200
+2010,Female,Services,Information And Communications,Employers,900
+2010,Female,Services,Information And Communications,Employees,36200
+2010,Female,Services,Information And Communications,Own Account Workers,600
+2010,Female,Services,Information And Communications,Contributing Family Workers,200
+2010,Female,Services,Financial And Insurance Services,Employers,500
+2010,Female,Services,Financial And Insurance Services,Employees,63700
+2010,Female,Services,Financial And Insurance Services,Own Account Workers,4600
+2010,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2010,Female,Services,Real Estate Services,Employers,400
+2010,Female,Services,Real Estate Services,Employees,13500
+2010,Female,Services,Real Estate Services,Own Account Workers,6500
+2010,Female,Services,Real Estate Services,Contributing Family Workers,0
+2010,Female,Services,Professional Services,Employers,2300
+2010,Female,Services,Professional Services,Employees,48400
+2010,Female,Services,Professional Services,Own Account Workers,3200
+2010,Female,Services,Professional Services,Contributing Family Workers,200
+2010,Female,Services,Administrative And Support Services,Employers,1300
+2010,Female,Services,Administrative And Support Services,Employees,41900
+2010,Female,Services,Administrative And Support Services,Own Account Workers,1400
+2010,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2010,Female,Services,Public Administration And Education,Employers,1600
+2010,Female,Services,Public Administration And Education,Employees,113000
+2010,Female,Services,Public Administration And Education,Own Account Workers,9400
+2010,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2010,Female,Services,Health And Social Services,Employers,1300
+2010,Female,Services,Health And Social Services,Employees,59600
+2010,Female,Services,Health And Social Services,Own Account Workers,1400
+2010,Female,Services,Health And Social Services,Contributing Family Workers,0
+2010,Female,Services,"Arts, Entertainment And Recreation",Employers,200
+2010,Female,Services,"Arts, Entertainment And Recreation",Employees,14700
+2010,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,800
+2010,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2010,Female,Services,"Other Community, Social And Personal Services",Employers,2900
+2010,Female,Services,"Other Community, Social And Personal Services",Employees,26200
+2010,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,7600
+2010,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,400
+2010,Female,Others,Others,Employers,100
+2010,Female,Others,Others,Employees,9000
+2010,Female,Others,Others,Own Account Workers,200
+2010,Female,Others,Others,Contributing Family Workers,100
+2011,Male,Manufacturing,Manufacturing,Employers,10300
+2011,Male,Manufacturing,Manufacturing,Employees,177400
+2011,Male,Manufacturing,Manufacturing,Own Account Workers,2900
+2011,Male,Manufacturing,Manufacturing,Contributing Family Workers,500
+2011,Male,Construction,Construction,Employers,11100
+2011,Male,Construction,Construction,Employees,59100
+2011,Male,Construction,Construction,Own Account Workers,7000
+2011,Male,Construction,Construction,Contributing Family Workers,200
+2011,Male,Services,Wholesale And Retail Trade,Employers,22100
+2011,Male,Services,Wholesale And Retail Trade,Employees,111000
+2011,Male,Services,Wholesale And Retail Trade,Own Account Workers,17000
+2011,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,2100
+2011,Male,Services,Transportation And Storage,Employers,3600
+2011,Male,Services,Transportation And Storage,Employees,94600
+2011,Male,Services,Transportation And Storage,Own Account Workers,47300
+2011,Male,Services,Transportation And Storage,Contributing Family Workers,200
+2011,Male,Services,Accommodation And Food Services,Employers,6600
+2011,Male,Services,Accommodation And Food Services,Employees,47400
+2011,Male,Services,Accommodation And Food Services,Own Account Workers,6100
+2011,Male,Services,Accommodation And Food Services,Contributing Family Workers,1000
+2011,Male,Services,Information And Communications,Employers,2700
+2011,Male,Services,Information And Communications,Employees,46900
+2011,Male,Services,Information And Communications,Own Account Workers,2400
+2011,Male,Services,Information And Communications,Contributing Family Workers,0
+2011,Male,Services,Financial And Insurance Services,Employers,2600
+2011,Male,Services,Financial And Insurance Services,Employees,53200
+2011,Male,Services,Financial And Insurance Services,Own Account Workers,10400
+2011,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2011,Male,Services,Real Estate Services,Employers,800
+2011,Male,Services,Real Estate Services,Employees,14500
+2011,Male,Services,Real Estate Services,Own Account Workers,9700
+2011,Male,Services,Real Estate Services,Contributing Family Workers,100
+2011,Male,Services,Professional Services,Employers,8400
+2011,Male,Services,Professional Services,Employees,50100
+2011,Male,Services,Professional Services,Own Account Workers,5600
+2011,Male,Services,Professional Services,Contributing Family Workers,100
+2011,Male,Services,Administrative And Support Services,Employers,3900
+2011,Male,Services,Administrative And Support Services,Employees,48000
+2011,Male,Services,Administrative And Support Services,Own Account Workers,2300
+2011,Male,Services,Administrative And Support Services,Contributing Family Workers,0
+2011,Male,Services,Public Administration And Education,Employers,1300
+2011,Male,Services,Public Administration And Education,Employees,138600
+2011,Male,Services,Public Administration And Education,Own Account Workers,5400
+2011,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2011,Male,Services,Health And Social Services,Employers,1800
+2011,Male,Services,Health And Social Services,Employees,17400
+2011,Male,Services,Health And Social Services,Own Account Workers,400
+2011,Male,Services,Health And Social Services,Contributing Family Workers,100
+2011,Male,Services,"Arts, Entertainment And Recreation",Employers,500
+2011,Male,Services,"Arts, Entertainment And Recreation",Employees,16000
+2011,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1600
+2011,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2011,Male,Services,"Other Community, Social And Personal Services",Employers,2700
+2011,Male,Services,"Other Community, Social And Personal Services",Employees,20400
+2011,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,5500
+2011,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,300
+2011,Male,Others,Others,Employers,700
+2011,Male,Others,Others,Employees,16100
+2011,Male,Others,Others,Own Account Workers,900
+2011,Male,Others,Others,Contributing Family Workers,0
+2011,Female,Manufacturing,Manufacturing,Employers,2900
+2011,Female,Manufacturing,Manufacturing,Employees,96400
+2011,Female,Manufacturing,Manufacturing,Own Account Workers,1200
+2011,Female,Manufacturing,Manufacturing,Contributing Family Workers,700
+2011,Female,Construction,Construction,Employers,1600
+2011,Female,Construction,Construction,Employees,19800
+2011,Female,Construction,Construction,Own Account Workers,400
+2011,Female,Construction,Construction,Contributing Family Workers,300
+2011,Female,Services,Wholesale And Retail Trade,Employers,8100
+2011,Female,Services,Wholesale And Retail Trade,Employees,127700
+2011,Female,Services,Wholesale And Retail Trade,Own Account Workers,7800
+2011,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,4600
+2011,Female,Services,Transportation And Storage,Employers,700
+2011,Female,Services,Transportation And Storage,Employees,44600
+2011,Female,Services,Transportation And Storage,Own Account Workers,900
+2011,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2011,Female,Services,Accommodation And Food Services,Employers,3300
+2011,Female,Services,Accommodation And Food Services,Employees,63200
+2011,Female,Services,Accommodation And Food Services,Own Account Workers,4300
+2011,Female,Services,Accommodation And Food Services,Contributing Family Workers,3400
+2011,Female,Services,Information And Communications,Employers,1000
+2011,Female,Services,Information And Communications,Employees,32200
+2011,Female,Services,Information And Communications,Own Account Workers,800
+2011,Female,Services,Information And Communications,Contributing Family Workers,0
+2011,Female,Services,Financial And Insurance Services,Employers,600
+2011,Female,Services,Financial And Insurance Services,Employees,72100
+2011,Female,Services,Financial And Insurance Services,Own Account Workers,6600
+2011,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2011,Female,Services,Real Estate Services,Employers,600
+2011,Female,Services,Real Estate Services,Employees,14900
+2011,Female,Services,Real Estate Services,Own Account Workers,8200
+2011,Female,Services,Real Estate Services,Contributing Family Workers,0
+2011,Female,Services,Professional Services,Employers,3100
+2011,Female,Services,Professional Services,Employees,54700
+2011,Female,Services,Professional Services,Own Account Workers,2500
+2011,Female,Services,Professional Services,Contributing Family Workers,300
+2011,Female,Services,Administrative And Support Services,Employers,1700
+2011,Female,Services,Administrative And Support Services,Employees,40000
+2011,Female,Services,Administrative And Support Services,Own Account Workers,1300
+2011,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2011,Female,Services,Public Administration And Education,Employers,1200
+2011,Female,Services,Public Administration And Education,Employees,110700
+2011,Female,Services,Public Administration And Education,Own Account Workers,9100
+2011,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2011,Female,Services,Health And Social Services,Employers,1300
+2011,Female,Services,Health And Social Services,Employees,65800
+2011,Female,Services,Health And Social Services,Own Account Workers,600
+2011,Female,Services,Health And Social Services,Contributing Family Workers,0
+2011,Female,Services,"Arts, Entertainment And Recreation",Employers,100
+2011,Female,Services,"Arts, Entertainment And Recreation",Employees,14600
+2011,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,800
+2011,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,200
+2011,Female,Services,"Other Community, Social And Personal Services",Employers,2700
+2011,Female,Services,"Other Community, Social And Personal Services",Employees,26100
+2011,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,7700
+2011,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2011,Female,Others,Others,Employers,200
+2011,Female,Others,Others,Employees,5400
+2011,Female,Others,Others,Own Account Workers,0
+2011,Female,Others,Others,Contributing Family Workers,100
+2012,Male,Manufacturing,Manufacturing,Employers,11800
+2012,Male,Manufacturing,Manufacturing,Employees,169200
+2012,Male,Manufacturing,Manufacturing,Own Account Workers,4100
+2012,Male,Manufacturing,Manufacturing,Contributing Family Workers,300
+2012,Male,Construction,Construction,Employers,14200
+2012,Male,Construction,Construction,Employees,59000
+2012,Male,Construction,Construction,Own Account Workers,7100
+2012,Male,Construction,Construction,Contributing Family Workers,400
+2012,Male,Services,Wholesale And Retail Trade,Employers,21600
+2012,Male,Services,Wholesale And Retail Trade,Employees,115200
+2012,Male,Services,Wholesale And Retail Trade,Own Account Workers,15500
+2012,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1500
+2012,Male,Services,Transportation And Storage,Employers,4400
+2012,Male,Services,Transportation And Storage,Employees,91000
+2012,Male,Services,Transportation And Storage,Own Account Workers,46700
+2012,Male,Services,Transportation And Storage,Contributing Family Workers,100
+2012,Male,Services,Accommodation And Food Services,Employers,6100
+2012,Male,Services,Accommodation And Food Services,Employees,44000
+2012,Male,Services,Accommodation And Food Services,Own Account Workers,6800
+2012,Male,Services,Accommodation And Food Services,Contributing Family Workers,1200
+2012,Male,Services,Information And Communications,Employers,3900
+2012,Male,Services,Information And Communications,Employees,48000
+2012,Male,Services,Information And Communications,Own Account Workers,2600
+2012,Male,Services,Information And Communications,Contributing Family Workers,100
+2012,Male,Services,Financial And Insurance Services,Employers,2200
+2012,Male,Services,Financial And Insurance Services,Employees,59200
+2012,Male,Services,Financial And Insurance Services,Own Account Workers,9400
+2012,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2012,Male,Services,Real Estate Services,Employers,1200
+2012,Male,Services,Real Estate Services,Employees,16900
+2012,Male,Services,Real Estate Services,Own Account Workers,8500
+2012,Male,Services,Real Estate Services,Contributing Family Workers,0
+2012,Male,Services,Professional Services,Employers,9400
+2012,Male,Services,Professional Services,Employees,55400
+2012,Male,Services,Professional Services,Own Account Workers,5600
+2012,Male,Services,Professional Services,Contributing Family Workers,0
+2012,Male,Services,Administrative And Support Services,Employers,4800
+2012,Male,Services,Administrative And Support Services,Employees,50600
+2012,Male,Services,Administrative And Support Services,Own Account Workers,2100
+2012,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2012,Male,Services,Public Administration And Education,Employers,1700
+2012,Male,Services,Public Administration And Education,Employees,143200
+2012,Male,Services,Public Administration And Education,Own Account Workers,5300
+2012,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2012,Male,Services,Health And Social Services,Employers,2400
+2012,Male,Services,Health And Social Services,Employees,16900
+2012,Male,Services,Health And Social Services,Own Account Workers,800
+2012,Male,Services,Health And Social Services,Contributing Family Workers,0
+2012,Male,Services,"Arts, Entertainment And Recreation",Employers,1000
+2012,Male,Services,"Arts, Entertainment And Recreation",Employees,18400
+2012,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1200
+2012,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2012,Male,Services,"Other Community, Social And Personal Services",Employers,4300
+2012,Male,Services,"Other Community, Social And Personal Services",Employees,17900
+2012,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,5100
+2012,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2012,Male,Others,Others,Employers,600
+2012,Male,Others,Others,Employees,17900
+2012,Male,Others,Others,Own Account Workers,1000
+2012,Male,Others,Others,Contributing Family Workers,0
+2012,Female,Manufacturing,Manufacturing,Employers,3500
+2012,Female,Manufacturing,Manufacturing,Employees,97100
+2012,Female,Manufacturing,Manufacturing,Own Account Workers,1600
+2012,Female,Manufacturing,Manufacturing,Contributing Family Workers,700
+2012,Female,Construction,Construction,Employers,1700
+2012,Female,Construction,Construction,Employees,21100
+2012,Female,Construction,Construction,Own Account Workers,400
+2012,Female,Construction,Construction,Contributing Family Workers,700
+2012,Female,Services,Wholesale And Retail Trade,Employers,8600
+2012,Female,Services,Wholesale And Retail Trade,Employees,133000
+2012,Female,Services,Wholesale And Retail Trade,Own Account Workers,8200
+2012,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2600
+2012,Female,Services,Transportation And Storage,Employers,800
+2012,Female,Services,Transportation And Storage,Employees,45200
+2012,Female,Services,Transportation And Storage,Own Account Workers,1200
+2012,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2012,Female,Services,Accommodation And Food Services,Employers,3000
+2012,Female,Services,Accommodation And Food Services,Employees,60400
+2012,Female,Services,Accommodation And Food Services,Own Account Workers,4600
+2012,Female,Services,Accommodation And Food Services,Contributing Family Workers,3100
+2012,Female,Services,Information And Communications,Employers,1300
+2012,Female,Services,Information And Communications,Employees,29800
+2012,Female,Services,Information And Communications,Own Account Workers,800
+2012,Female,Services,Information And Communications,Contributing Family Workers,0
+2012,Female,Services,Financial And Insurance Services,Employers,700
+2012,Female,Services,Financial And Insurance Services,Employees,73100
+2012,Female,Services,Financial And Insurance Services,Own Account Workers,5900
+2012,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2012,Female,Services,Real Estate Services,Employers,800
+2012,Female,Services,Real Estate Services,Employees,17300
+2012,Female,Services,Real Estate Services,Own Account Workers,7100
+2012,Female,Services,Real Estate Services,Contributing Family Workers,100
+2012,Female,Services,Professional Services,Employers,4300
+2012,Female,Services,Professional Services,Employees,56400
+2012,Female,Services,Professional Services,Own Account Workers,3600
+2012,Female,Services,Professional Services,Contributing Family Workers,100
+2012,Female,Services,Administrative And Support Services,Employers,1900
+2012,Female,Services,Administrative And Support Services,Employees,40700
+2012,Female,Services,Administrative And Support Services,Own Account Workers,1500
+2012,Female,Services,Administrative And Support Services,Contributing Family Workers,400
+2012,Female,Services,Public Administration And Education,Employers,2000
+2012,Female,Services,Public Administration And Education,Employees,113900
+2012,Female,Services,Public Administration And Education,Own Account Workers,9000
+2012,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2012,Female,Services,Health And Social Services,Employers,1700
+2012,Female,Services,Health And Social Services,Employees,67900
+2012,Female,Services,Health And Social Services,Own Account Workers,1100
+2012,Female,Services,Health And Social Services,Contributing Family Workers,100
+2012,Female,Services,"Arts, Entertainment And Recreation",Employers,200
+2012,Female,Services,"Arts, Entertainment And Recreation",Employees,17300
+2012,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,800
+2012,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2012,Female,Services,"Other Community, Social And Personal Services",Employers,3000
+2012,Female,Services,"Other Community, Social And Personal Services",Employees,25600
+2012,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,8900
+2012,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,500
+2012,Female,Others,Others,Employers,100
+2012,Female,Others,Others,Employees,6400
+2012,Female,Others,Others,Own Account Workers,200
+2012,Female,Others,Others,Contributing Family Workers,200
+2013,Male,Manufacturing,Manufacturing,Employers,11100
+2013,Male,Manufacturing,Manufacturing,Employees,161400
+2013,Male,Manufacturing,Manufacturing,Own Account Workers,2900
+2013,Male,Manufacturing,Manufacturing,Contributing Family Workers,200
+2013,Male,Construction,Construction,Employers,12600
+2013,Male,Construction,Construction,Employees,58900
+2013,Male,Construction,Construction,Own Account Workers,6400
+2013,Male,Construction,Construction,Contributing Family Workers,100
+2013,Male,Services,Wholesale And Retail Trade,Employers,23100
+2013,Male,Services,Wholesale And Retail Trade,Employees,117700
+2013,Male,Services,Wholesale And Retail Trade,Own Account Workers,12700
+2013,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1500
+2013,Male,Services,Transportation And Storage,Employers,4400
+2013,Male,Services,Transportation And Storage,Employees,91900
+2013,Male,Services,Transportation And Storage,Own Account Workers,48400
+2013,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2013,Male,Services,Accommodation And Food Services,Employers,6300
+2013,Male,Services,Accommodation And Food Services,Employees,47400
+2013,Male,Services,Accommodation And Food Services,Own Account Workers,5200
+2013,Male,Services,Accommodation And Food Services,Contributing Family Workers,1100
+2013,Male,Services,Information And Communications,Employers,4400
+2013,Male,Services,Information And Communications,Employees,48900
+2013,Male,Services,Information And Communications,Own Account Workers,2400
+2013,Male,Services,Information And Communications,Contributing Family Workers,0
+2013,Male,Services,Financial And Insurance Services,Employers,2500
+2013,Male,Services,Financial And Insurance Services,Employees,57100
+2013,Male,Services,Financial And Insurance Services,Own Account Workers,8800
+2013,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2013,Male,Services,Real Estate Services,Employers,1100
+2013,Male,Services,Real Estate Services,Employees,16100
+2013,Male,Services,Real Estate Services,Own Account Workers,7800
+2013,Male,Services,Real Estate Services,Contributing Family Workers,0
+2013,Male,Services,Professional Services,Employers,9600
+2013,Male,Services,Professional Services,Employees,59200
+2013,Male,Services,Professional Services,Own Account Workers,6600
+2013,Male,Services,Professional Services,Contributing Family Workers,0
+2013,Male,Services,Administrative And Support Services,Employers,4500
+2013,Male,Services,Administrative And Support Services,Employees,48900
+2013,Male,Services,Administrative And Support Services,Own Account Workers,2300
+2013,Male,Services,Administrative And Support Services,Contributing Family Workers,0
+2013,Male,Services,Public Administration And Education,Employers,2100
+2013,Male,Services,Public Administration And Education,Employees,148000
+2013,Male,Services,Public Administration And Education,Own Account Workers,5400
+2013,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2013,Male,Services,Health And Social Services,Employers,2500
+2013,Male,Services,Health And Social Services,Employees,19700
+2013,Male,Services,Health And Social Services,Own Account Workers,500
+2013,Male,Services,Health And Social Services,Contributing Family Workers,100
+2013,Male,Services,"Arts, Entertainment And Recreation",Employers,800
+2013,Male,Services,"Arts, Entertainment And Recreation",Employees,17300
+2013,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1800
+2013,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2013,Male,Services,"Other Community, Social And Personal Services",Employers,4100
+2013,Male,Services,"Other Community, Social And Personal Services",Employees,22400
+2013,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,4800
+2013,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2013,Male,Others,Others,Employers,1200
+2013,Male,Others,Others,Employees,16500
+2013,Male,Others,Others,Own Account Workers,1300
+2013,Male,Others,Others,Contributing Family Workers,100
+2013,Female,Manufacturing,Manufacturing,Employers,3300
+2013,Female,Manufacturing,Manufacturing,Employees,99400
+2013,Female,Manufacturing,Manufacturing,Own Account Workers,1100
+2013,Female,Manufacturing,Manufacturing,Contributing Family Workers,500
+2013,Female,Construction,Construction,Employers,2200
+2013,Female,Construction,Construction,Employees,20800
+2013,Female,Construction,Construction,Own Account Workers,600
+2013,Female,Construction,Construction,Contributing Family Workers,400
+2013,Female,Services,Wholesale And Retail Trade,Employers,10300
+2013,Female,Services,Wholesale And Retail Trade,Employees,128300
+2013,Female,Services,Wholesale And Retail Trade,Own Account Workers,6300
+2013,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2200
+2013,Female,Services,Transportation And Storage,Employers,1000
+2013,Female,Services,Transportation And Storage,Employees,45600
+2013,Female,Services,Transportation And Storage,Own Account Workers,1000
+2013,Female,Services,Transportation And Storage,Contributing Family Workers,300
+2013,Female,Services,Accommodation And Food Services,Employers,3600
+2013,Female,Services,Accommodation And Food Services,Employees,65300
+2013,Female,Services,Accommodation And Food Services,Own Account Workers,3500
+2013,Female,Services,Accommodation And Food Services,Contributing Family Workers,2700
+2013,Female,Services,Information And Communications,Employers,1100
+2013,Female,Services,Information And Communications,Employees,34200
+2013,Female,Services,Information And Communications,Own Account Workers,1300
+2013,Female,Services,Information And Communications,Contributing Family Workers,100
+2013,Female,Services,Financial And Insurance Services,Employers,1300
+2013,Female,Services,Financial And Insurance Services,Employees,72400
+2013,Female,Services,Financial And Insurance Services,Own Account Workers,5700
+2013,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2013,Female,Services,Real Estate Services,Employers,1100
+2013,Female,Services,Real Estate Services,Employees,16400
+2013,Female,Services,Real Estate Services,Own Account Workers,6600
+2013,Female,Services,Real Estate Services,Contributing Family Workers,100
+2013,Female,Services,Professional Services,Employers,3700
+2013,Female,Services,Professional Services,Employees,60100
+2013,Female,Services,Professional Services,Own Account Workers,3500
+2013,Female,Services,Professional Services,Contributing Family Workers,100
+2013,Female,Services,Administrative And Support Services,Employers,2200
+2013,Female,Services,Administrative And Support Services,Employees,39100
+2013,Female,Services,Administrative And Support Services,Own Account Workers,2100
+2013,Female,Services,Administrative And Support Services,Contributing Family Workers,200
+2013,Female,Services,Public Administration And Education,Employers,2200
+2013,Female,Services,Public Administration And Education,Employees,117900
+2013,Female,Services,Public Administration And Education,Own Account Workers,8900
+2013,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2013,Female,Services,Health And Social Services,Employers,1800
+2013,Female,Services,Health And Social Services,Employees,69500
+2013,Female,Services,Health And Social Services,Own Account Workers,700
+2013,Female,Services,Health And Social Services,Contributing Family Workers,100
+2013,Female,Services,"Arts, Entertainment And Recreation",Employers,800
+2013,Female,Services,"Arts, Entertainment And Recreation",Employees,15500
+2013,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,900
+2013,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2013,Female,Services,"Other Community, Social And Personal Services",Employers,3700
+2013,Female,Services,"Other Community, Social And Personal Services",Employees,26300
+2013,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,7500
+2013,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,400
+2013,Female,Others,Others,Employers,300
+2013,Female,Others,Others,Employees,7300
+2013,Female,Others,Others,Own Account Workers,100
+2013,Female,Others,Others,Contributing Family Workers,0
+2014,Male,Manufacturing,Manufacturing,Employers,8900
+2014,Male,Manufacturing,Manufacturing,Employees,150900
+2014,Male,Manufacturing,Manufacturing,Own Account Workers,2800
+2014,Male,Manufacturing,Manufacturing,Contributing Family Workers,300
+2014,Male,Construction,Construction,Employers,10700
+2014,Male,Construction,Construction,Employees,55300
+2014,Male,Construction,Construction,Own Account Workers,6800
+2014,Male,Construction,Construction,Contributing Family Workers,200
+2014,Male,Services,Wholesale And Retail Trade,Employers,23300
+2014,Male,Services,Wholesale And Retail Trade,Employees,135400
+2014,Male,Services,Wholesale And Retail Trade,Own Account Workers,16200
+2014,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1400
+2014,Male,Services,Transportation And Storage,Employers,4800
+2014,Male,Services,Transportation And Storage,Employees,90300
+2014,Male,Services,Transportation And Storage,Own Account Workers,47800
+2014,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2014,Male,Services,Accommodation And Food Services,Employers,5200
+2014,Male,Services,Accommodation And Food Services,Employees,48900
+2014,Male,Services,Accommodation And Food Services,Own Account Workers,5600
+2014,Male,Services,Accommodation And Food Services,Contributing Family Workers,1000
+2014,Male,Services,Information And Communications,Employers,3200
+2014,Male,Services,Information And Communications,Employees,47200
+2014,Male,Services,Information And Communications,Own Account Workers,3300
+2014,Male,Services,Information And Communications,Contributing Family Workers,0
+2014,Male,Services,Financial And Insurance Services,Employers,2700
+2014,Male,Services,Financial And Insurance Services,Employees,66400
+2014,Male,Services,Financial And Insurance Services,Own Account Workers,11700
+2014,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2014,Male,Services,Real Estate Services,Employers,1100
+2014,Male,Services,Real Estate Services,Employees,17600
+2014,Male,Services,Real Estate Services,Own Account Workers,9000
+2014,Male,Services,Real Estate Services,Contributing Family Workers,0
+2014,Male,Services,Professional Services,Employers,9000
+2014,Male,Services,Professional Services,Employees,62800
+2014,Male,Services,Professional Services,Own Account Workers,8500
+2014,Male,Services,Professional Services,Contributing Family Workers,100
+2014,Male,Services,Administrative And Support Services,Employers,3700
+2014,Male,Services,Administrative And Support Services,Employees,52800
+2014,Male,Services,Administrative And Support Services,Own Account Workers,2900
+2014,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2014,Male,Services,Public Administration And Education,Employers,1600
+2014,Male,Services,Public Administration And Education,Employees,148500
+2014,Male,Services,Public Administration And Education,Own Account Workers,5800
+2014,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2014,Male,Services,Health And Social Services,Employers,2600
+2014,Male,Services,Health And Social Services,Employees,21300
+2014,Male,Services,Health And Social Services,Own Account Workers,800
+2014,Male,Services,Health And Social Services,Contributing Family Workers,0
+2014,Male,Services,"Arts, Entertainment And Recreation",Employers,400
+2014,Male,Services,"Arts, Entertainment And Recreation",Employees,15200
+2014,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1200
+2014,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2014,Male,Services,"Other Community, Social And Personal Services",Employers,3200
+2014,Male,Services,"Other Community, Social And Personal Services",Employees,19100
+2014,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,5000
+2014,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2014,Male,Others,Others,Employers,600
+2014,Male,Others,Others,Employees,15700
+2014,Male,Others,Others,Own Account Workers,1400
+2014,Male,Others,Others,Contributing Family Workers,0
+2014,Female,Manufacturing,Manufacturing,Employers,2100
+2014,Female,Manufacturing,Manufacturing,Employees,82700
+2014,Female,Manufacturing,Manufacturing,Own Account Workers,1100
+2014,Female,Manufacturing,Manufacturing,Contributing Family Workers,600
+2014,Female,Construction,Construction,Employers,1500
+2014,Female,Construction,Construction,Employees,22500
+2014,Female,Construction,Construction,Own Account Workers,400
+2014,Female,Construction,Construction,Contributing Family Workers,800
+2014,Female,Services,Wholesale And Retail Trade,Employers,9900
+2014,Female,Services,Wholesale And Retail Trade,Employees,149300
+2014,Female,Services,Wholesale And Retail Trade,Own Account Workers,8500
+2014,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2300
+2014,Female,Services,Transportation And Storage,Employers,800
+2014,Female,Services,Transportation And Storage,Employees,43800
+2014,Female,Services,Transportation And Storage,Own Account Workers,1100
+2014,Female,Services,Transportation And Storage,Contributing Family Workers,200
+2014,Female,Services,Accommodation And Food Services,Employers,3300
+2014,Female,Services,Accommodation And Food Services,Employees,66300
+2014,Female,Services,Accommodation And Food Services,Own Account Workers,3900
+2014,Female,Services,Accommodation And Food Services,Contributing Family Workers,2900
+2014,Female,Services,Information And Communications,Employers,500
+2014,Female,Services,Information And Communications,Employees,33000
+2014,Female,Services,Information And Communications,Own Account Workers,1100
+2014,Female,Services,Information And Communications,Contributing Family Workers,0
+2014,Female,Services,Financial And Insurance Services,Employers,800
+2014,Female,Services,Financial And Insurance Services,Employees,77200
+2014,Female,Services,Financial And Insurance Services,Own Account Workers,6700
+2014,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2014,Female,Services,Real Estate Services,Employers,600
+2014,Female,Services,Real Estate Services,Employees,18800
+2014,Female,Services,Real Estate Services,Own Account Workers,8400
+2014,Female,Services,Real Estate Services,Contributing Family Workers,100
+2014,Female,Services,Professional Services,Employers,3700
+2014,Female,Services,Professional Services,Employees,63900
+2014,Female,Services,Professional Services,Own Account Workers,4800
+2014,Female,Services,Professional Services,Contributing Family Workers,200
+2014,Female,Services,Administrative And Support Services,Employers,1600
+2014,Female,Services,Administrative And Support Services,Employees,38300
+2014,Female,Services,Administrative And Support Services,Own Account Workers,2400
+2014,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2014,Female,Services,Public Administration And Education,Employers,1500
+2014,Female,Services,Public Administration And Education,Employees,119400
+2014,Female,Services,Public Administration And Education,Own Account Workers,8200
+2014,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2014,Female,Services,Health And Social Services,Employers,1500
+2014,Female,Services,Health And Social Services,Employees,80400
+2014,Female,Services,Health And Social Services,Own Account Workers,1000
+2014,Female,Services,Health And Social Services,Contributing Family Workers,0
+2014,Female,Services,"Arts, Entertainment And Recreation",Employers,200
+2014,Female,Services,"Arts, Entertainment And Recreation",Employees,17300
+2014,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,800
+2014,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2014,Female,Services,"Other Community, Social And Personal Services",Employers,3000
+2014,Female,Services,"Other Community, Social And Personal Services",Employees,28600
+2014,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,6800
+2014,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,400
+2014,Female,Others,Others,Employers,100
+2014,Female,Others,Others,Employees,6800
+2014,Female,Others,Others,Own Account Workers,100
+2014,Female,Others,Others,Contributing Family Workers,100
+2015,Male,Manufacturing,Manufacturing,Employers,10400
+2015,Male,Manufacturing,Manufacturing,Employees,140100
+2015,Male,Manufacturing,Manufacturing,Own Account Workers,3000
+2015,Male,Manufacturing,Manufacturing,Contributing Family Workers,0
+2015,Male,Construction,Construction,Employers,14000
+2015,Male,Construction,Construction,Employees,59900
+2015,Male,Construction,Construction,Own Account Workers,6500
+2015,Male,Construction,Construction,Contributing Family Workers,200
+2015,Male,Services,Wholesale And Retail Trade,Employers,25300
+2015,Male,Services,Wholesale And Retail Trade,Employees,145500
+2015,Male,Services,Wholesale And Retail Trade,Own Account Workers,13400
+2015,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,900
+2015,Male,Services,Transportation And Storage,Employers,4000
+2015,Male,Services,Transportation And Storage,Employees,88000
+2015,Male,Services,Transportation And Storage,Own Account Workers,49300
+2015,Male,Services,Transportation And Storage,Contributing Family Workers,100
+2015,Male,Services,Accommodation And Food Services,Employers,6300
+2015,Male,Services,Accommodation And Food Services,Employees,48500
+2015,Male,Services,Accommodation And Food Services,Own Account Workers,5200
+2015,Male,Services,Accommodation And Food Services,Contributing Family Workers,1100
+2015,Male,Services,Information And Communications,Employers,3100
+2015,Male,Services,Information And Communications,Employees,45900
+2015,Male,Services,Information And Communications,Own Account Workers,2500
+2015,Male,Services,Information And Communications,Contributing Family Workers,100
+2015,Male,Services,Financial And Insurance Services,Employers,2100
+2015,Male,Services,Financial And Insurance Services,Employees,68000
+2015,Male,Services,Financial And Insurance Services,Own Account Workers,8400
+2015,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2015,Male,Services,Real Estate Services,Employers,800
+2015,Male,Services,Real Estate Services,Employees,17700
+2015,Male,Services,Real Estate Services,Own Account Workers,8800
+2015,Male,Services,Real Estate Services,Contributing Family Workers,100
+2015,Male,Services,Professional Services,Employers,9500
+2015,Male,Services,Professional Services,Employees,70100
+2015,Male,Services,Professional Services,Own Account Workers,7300
+2015,Male,Services,Professional Services,Contributing Family Workers,0
+2015,Male,Services,Administrative And Support Services,Employers,3900
+2015,Male,Services,Administrative And Support Services,Employees,53700
+2015,Male,Services,Administrative And Support Services,Own Account Workers,2600
+2015,Male,Services,Administrative And Support Services,Contributing Family Workers,300
+2015,Male,Services,Public Administration And Education,Employers,1700
+2015,Male,Services,Public Administration And Education,Employees,150700
+2015,Male,Services,Public Administration And Education,Own Account Workers,5100
+2015,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2015,Male,Services,Health And Social Services,Employers,2300
+2015,Male,Services,Health And Social Services,Employees,21100
+2015,Male,Services,Health And Social Services,Own Account Workers,500
+2015,Male,Services,Health And Social Services,Contributing Family Workers,0
+2015,Male,Services,"Arts, Entertainment And Recreation",Employers,400
+2015,Male,Services,"Arts, Entertainment And Recreation",Employees,16600
+2015,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1400
+2015,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2015,Male,Services,"Other Community, Social And Personal Services",Employers,3500
+2015,Male,Services,"Other Community, Social And Personal Services",Employees,20200
+2015,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,4500
+2015,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,300
+2015,Male,Others,Others,Employers,800
+2015,Male,Others,Others,Employees,15100
+2015,Male,Others,Others,Own Account Workers,800
+2015,Male,Others,Others,Contributing Family Workers,0
+2015,Female,Manufacturing,Manufacturing,Employers,2800
+2015,Female,Manufacturing,Manufacturing,Employees,81000
+2015,Female,Manufacturing,Manufacturing,Own Account Workers,900
+2015,Female,Manufacturing,Manufacturing,Contributing Family Workers,300
+2015,Female,Construction,Construction,Employers,2200
+2015,Female,Construction,Construction,Employees,27100
+2015,Female,Construction,Construction,Own Account Workers,500
+2015,Female,Construction,Construction,Contributing Family Workers,200
+2015,Female,Services,Wholesale And Retail Trade,Employers,10700
+2015,Female,Services,Wholesale And Retail Trade,Employees,158800
+2015,Female,Services,Wholesale And Retail Trade,Own Account Workers,7400
+2015,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2000
+2015,Female,Services,Transportation And Storage,Employers,1200
+2015,Female,Services,Transportation And Storage,Employees,43300
+2015,Female,Services,Transportation And Storage,Own Account Workers,1500
+2015,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2015,Female,Services,Accommodation And Food Services,Employers,3400
+2015,Female,Services,Accommodation And Food Services,Employees,68900
+2015,Female,Services,Accommodation And Food Services,Own Account Workers,4000
+2015,Female,Services,Accommodation And Food Services,Contributing Family Workers,1800
+2015,Female,Services,Information And Communications,Employers,700
+2015,Female,Services,Information And Communications,Employees,32400
+2015,Female,Services,Information And Communications,Own Account Workers,1300
+2015,Female,Services,Information And Communications,Contributing Family Workers,0
+2015,Female,Services,Financial And Insurance Services,Employers,700
+2015,Female,Services,Financial And Insurance Services,Employees,81400
+2015,Female,Services,Financial And Insurance Services,Own Account Workers,6600
+2015,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2015,Female,Services,Real Estate Services,Employers,600
+2015,Female,Services,Real Estate Services,Employees,20600
+2015,Female,Services,Real Estate Services,Own Account Workers,6800
+2015,Female,Services,Real Estate Services,Contributing Family Workers,0
+2015,Female,Services,Professional Services,Employers,3300
+2015,Female,Services,Professional Services,Employees,72400
+2015,Female,Services,Professional Services,Own Account Workers,3700
+2015,Female,Services,Professional Services,Contributing Family Workers,200
+2015,Female,Services,Administrative And Support Services,Employers,2200
+2015,Female,Services,Administrative And Support Services,Employees,43000
+2015,Female,Services,Administrative And Support Services,Own Account Workers,3100
+2015,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2015,Female,Services,Public Administration And Education,Employers,1900
+2015,Female,Services,Public Administration And Education,Employees,122900
+2015,Female,Services,Public Administration And Education,Own Account Workers,8400
+2015,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2015,Female,Services,Health And Social Services,Employers,1500
+2015,Female,Services,Health And Social Services,Employees,78300
+2015,Female,Services,Health And Social Services,Own Account Workers,2000
+2015,Female,Services,Health And Social Services,Contributing Family Workers,0
+2015,Female,Services,"Arts, Entertainment And Recreation",Employers,200
+2015,Female,Services,"Arts, Entertainment And Recreation",Employees,17800
+2015,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,700
+2015,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2015,Female,Services,"Other Community, Social And Personal Services",Employers,3100
+2015,Female,Services,"Other Community, Social And Personal Services",Employees,31900
+2015,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3400
+2015,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2015,Female,Others,Others,Employers,200
+2015,Female,Others,Others,Employees,6300
+2015,Female,Others,Others,Own Account Workers,0
+2015,Female,Others,Others,Contributing Family Workers,0
+2016,Male,Manufacturing,Manufacturing,Employers,7800
+2016,Male,Manufacturing,Manufacturing,Employees,134200
+2016,Male,Manufacturing,Manufacturing,Own Account Workers,3300
+2016,Male,Manufacturing,Manufacturing,Contributing Family Workers,200
+2016,Male,Construction,Construction,Employers,12800
+2016,Male,Construction,Construction,Employees,54500
+2016,Male,Construction,Construction,Own Account Workers,5500
+2016,Male,Construction,Construction,Contributing Family Workers,600
+2016,Male,Services,Wholesale And Retail Trade,Employers,23400
+2016,Male,Services,Wholesale And Retail Trade,Employees,145100
+2016,Male,Services,Wholesale And Retail Trade,Own Account Workers,14800
+2016,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1200
+2016,Male,Services,Transportation And Storage,Employers,4200
+2016,Male,Services,Transportation And Storage,Employees,86500
+2016,Male,Services,Transportation And Storage,Own Account Workers,52500
+2016,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2016,Male,Services,Accommodation And Food Services,Employers,6500
+2016,Male,Services,Accommodation And Food Services,Employees,47000
+2016,Male,Services,Accommodation And Food Services,Own Account Workers,5900
+2016,Male,Services,Accommodation And Food Services,Contributing Family Workers,800
+2016,Male,Services,Information And Communications,Employers,3400
+2016,Male,Services,Information And Communications,Employees,45800
+2016,Male,Services,Information And Communications,Own Account Workers,3200
+2016,Male,Services,Information And Communications,Contributing Family Workers,100
+2016,Male,Services,Financial And Insurance Services,Employers,2400
+2016,Male,Services,Financial And Insurance Services,Employees,77400
+2016,Male,Services,Financial And Insurance Services,Own Account Workers,10800
+2016,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2016,Male,Services,Real Estate Services,Employers,900
+2016,Male,Services,Real Estate Services,Employees,19500
+2016,Male,Services,Real Estate Services,Own Account Workers,8200
+2016,Male,Services,Real Estate Services,Contributing Family Workers,0
+2016,Male,Services,Professional Services,Employers,8500
+2016,Male,Services,Professional Services,Employees,68100
+2016,Male,Services,Professional Services,Own Account Workers,7500
+2016,Male,Services,Professional Services,Contributing Family Workers,300
+2016,Male,Services,Administrative And Support Services,Employers,4600
+2016,Male,Services,Administrative And Support Services,Employees,59000
+2016,Male,Services,Administrative And Support Services,Own Account Workers,2800
+2016,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2016,Male,Services,Public Administration And Education,Employers,1500
+2016,Male,Services,Public Administration And Education,Employees,154600
+2016,Male,Services,Public Administration And Education,Own Account Workers,5400
+2016,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2016,Male,Services,Health And Social Services,Employers,2100
+2016,Male,Services,Health And Social Services,Employees,22700
+2016,Male,Services,Health And Social Services,Own Account Workers,800
+2016,Male,Services,Health And Social Services,Contributing Family Workers,0
+2016,Male,Services,"Arts, Entertainment And Recreation",Employers,600
+2016,Male,Services,"Arts, Entertainment And Recreation",Employees,17600
+2016,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1600
+2016,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2016,Male,Services,"Other Community, Social And Personal Services",Employers,3700
+2016,Male,Services,"Other Community, Social And Personal Services",Employees,19100
+2016,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,4200
+2016,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2016,Male,Others,Others,Employers,600
+2016,Male,Others,Others,Employees,13100
+2016,Male,Others,Others,Own Account Workers,1000
+2016,Male,Others,Others,Contributing Family Workers,0
+2016,Female,Manufacturing,Manufacturing,Employers,2200
+2016,Female,Manufacturing,Manufacturing,Employees,77800
+2016,Female,Manufacturing,Manufacturing,Own Account Workers,1100
+2016,Female,Manufacturing,Manufacturing,Contributing Family Workers,600
+2016,Female,Construction,Construction,Employers,1900
+2016,Female,Construction,Construction,Employees,25400
+2016,Female,Construction,Construction,Own Account Workers,100
+2016,Female,Construction,Construction,Contributing Family Workers,300
+2016,Female,Services,Wholesale And Retail Trade,Employers,8600
+2016,Female,Services,Wholesale And Retail Trade,Employees,161700
+2016,Female,Services,Wholesale And Retail Trade,Own Account Workers,7000
+2016,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2500
+2016,Female,Services,Transportation And Storage,Employers,900
+2016,Female,Services,Transportation And Storage,Employees,43000
+2016,Female,Services,Transportation And Storage,Own Account Workers,1200
+2016,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2016,Female,Services,Accommodation And Food Services,Employers,3800
+2016,Female,Services,Accommodation And Food Services,Employees,67700
+2016,Female,Services,Accommodation And Food Services,Own Account Workers,4200
+2016,Female,Services,Accommodation And Food Services,Contributing Family Workers,2400
+2016,Female,Services,Information And Communications,Employers,800
+2016,Female,Services,Information And Communications,Employees,32800
+2016,Female,Services,Information And Communications,Own Account Workers,800
+2016,Female,Services,Information And Communications,Contributing Family Workers,0
+2016,Female,Services,Financial And Insurance Services,Employers,600
+2016,Female,Services,Financial And Insurance Services,Employees,90800
+2016,Female,Services,Financial And Insurance Services,Own Account Workers,8400
+2016,Female,Services,Financial And Insurance Services,Contributing Family Workers,200
+2016,Female,Services,Real Estate Services,Employers,700
+2016,Female,Services,Real Estate Services,Employees,17100
+2016,Female,Services,Real Estate Services,Own Account Workers,7000
+2016,Female,Services,Real Estate Services,Contributing Family Workers,100
+2016,Female,Services,Professional Services,Employers,3500
+2016,Female,Services,Professional Services,Employees,70200
+2016,Female,Services,Professional Services,Own Account Workers,4500
+2016,Female,Services,Professional Services,Contributing Family Workers,300
+2016,Female,Services,Administrative And Support Services,Employers,2000
+2016,Female,Services,Administrative And Support Services,Employees,43300
+2016,Female,Services,Administrative And Support Services,Own Account Workers,4000
+2016,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2016,Female,Services,Public Administration And Education,Employers,2200
+2016,Female,Services,Public Administration And Education,Employees,123200
+2016,Female,Services,Public Administration And Education,Own Account Workers,7900
+2016,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2016,Female,Services,Health And Social Services,Employers,1000
+2016,Female,Services,Health And Social Services,Employees,87600
+2016,Female,Services,Health And Social Services,Own Account Workers,1600
+2016,Female,Services,Health And Social Services,Contributing Family Workers,0
+2016,Female,Services,"Arts, Entertainment And Recreation",Employers,200
+2016,Female,Services,"Arts, Entertainment And Recreation",Employees,19800
+2016,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,600
+2016,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2016,Female,Services,"Other Community, Social And Personal Services",Employers,3800
+2016,Female,Services,"Other Community, Social And Personal Services",Employees,29900
+2016,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3600
+2016,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,300
+2016,Female,Others,Others,Employers,0
+2016,Female,Others,Others,Employees,5000
+2016,Female,Others,Others,Own Account Workers,100
+2016,Female,Others,Others,Contributing Family Workers,100
+2017,Male,Manufacturing,Manufacturing,Employers,8600
+2017,Male,Manufacturing,Manufacturing,Employees,132200
+2017,Male,Manufacturing,Manufacturing,Own Account Workers,4100
+2017,Male,Manufacturing,Manufacturing,Contributing Family Workers,400
+2017,Male,Construction,Construction,Employers,11500
+2017,Male,Construction,Construction,Employees,52800
+2017,Male,Construction,Construction,Own Account Workers,7400
+2017,Male,Construction,Construction,Contributing Family Workers,400
+2017,Male,Services,Wholesale And Retail Trade,Employers,21400
+2017,Male,Services,Wholesale And Retail Trade,Employees,143600
+2017,Male,Services,Wholesale And Retail Trade,Own Account Workers,16800
+2017,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1100
+2017,Male,Services,Transportation And Storage,Employers,3700
+2017,Male,Services,Transportation And Storage,Employees,88700
+2017,Male,Services,Transportation And Storage,Own Account Workers,60400
+2017,Male,Services,Transportation And Storage,Contributing Family Workers,100
+2017,Male,Services,Accommodation And Food Services,Employers,4800
+2017,Male,Services,Accommodation And Food Services,Employees,48300
+2017,Male,Services,Accommodation And Food Services,Own Account Workers,6600
+2017,Male,Services,Accommodation And Food Services,Contributing Family Workers,800
+2017,Male,Services,Information And Communications,Employers,4300
+2017,Male,Services,Information And Communications,Employees,49000
+2017,Male,Services,Information And Communications,Own Account Workers,3400
+2017,Male,Services,Information And Communications,Contributing Family Workers,0
+2017,Male,Services,Financial And Insurance Services,Employers,2400
+2017,Male,Services,Financial And Insurance Services,Employees,77100
+2017,Male,Services,Financial And Insurance Services,Own Account Workers,11400
+2017,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2017,Male,Services,Real Estate Services,Employers,900
+2017,Male,Services,Real Estate Services,Employees,19900
+2017,Male,Services,Real Estate Services,Own Account Workers,7300
+2017,Male,Services,Real Estate Services,Contributing Family Workers,100
+2017,Male,Services,Professional Services,Employers,9300
+2017,Male,Services,Professional Services,Employees,69300
+2017,Male,Services,Professional Services,Own Account Workers,10100
+2017,Male,Services,Professional Services,Contributing Family Workers,200
+2017,Male,Services,Administrative And Support Services,Employers,3300
+2017,Male,Services,Administrative And Support Services,Employees,57100
+2017,Male,Services,Administrative And Support Services,Own Account Workers,2400
+2017,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2017,Male,Services,Public Administration And Education,Employers,1600
+2017,Male,Services,Public Administration And Education,Employees,153300
+2017,Male,Services,Public Administration And Education,Own Account Workers,5700
+2017,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2017,Male,Services,Health And Social Services,Employers,1900
+2017,Male,Services,Health And Social Services,Employees,25700
+2017,Male,Services,Health And Social Services,Own Account Workers,700
+2017,Male,Services,Health And Social Services,Contributing Family Workers,100
+2017,Male,Services,"Arts, Entertainment And Recreation",Employers,300
+2017,Male,Services,"Arts, Entertainment And Recreation",Employees,15400
+2017,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1600
+2017,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2017,Male,Services,"Other Community, Social And Personal Services",Employers,3000
+2017,Male,Services,"Other Community, Social And Personal Services",Employees,18800
+2017,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,5400
+2017,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2017,Male,Others,Others,Employers,600
+2017,Male,Others,Others,Employees,13600
+2017,Male,Others,Others,Own Account Workers,700
+2017,Male,Others,Others,Contributing Family Workers,0
+2017,Female,Manufacturing,Manufacturing,Employers,1600
+2017,Female,Manufacturing,Manufacturing,Employees,74700
+2017,Female,Manufacturing,Manufacturing,Own Account Workers,1500
+2017,Female,Manufacturing,Manufacturing,Contributing Family Workers,400
+2017,Female,Construction,Construction,Employers,1600
+2017,Female,Construction,Construction,Employees,26500
+2017,Female,Construction,Construction,Own Account Workers,400
+2017,Female,Construction,Construction,Contributing Family Workers,100
+2017,Female,Services,Wholesale And Retail Trade,Employers,9000
+2017,Female,Services,Wholesale And Retail Trade,Employees,152800
+2017,Female,Services,Wholesale And Retail Trade,Own Account Workers,8700
+2017,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2600
+2017,Female,Services,Transportation And Storage,Employers,700
+2017,Female,Services,Transportation And Storage,Employees,40000
+2017,Female,Services,Transportation And Storage,Own Account Workers,2100
+2017,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2017,Female,Services,Accommodation And Food Services,Employers,2700
+2017,Female,Services,Accommodation And Food Services,Employees,65700
+2017,Female,Services,Accommodation And Food Services,Own Account Workers,3100
+2017,Female,Services,Accommodation And Food Services,Contributing Family Workers,2300
+2017,Female,Services,Information And Communications,Employers,900
+2017,Female,Services,Information And Communications,Employees,32300
+2017,Female,Services,Information And Communications,Own Account Workers,1400
+2017,Female,Services,Information And Communications,Contributing Family Workers,0
+2017,Female,Services,Financial And Insurance Services,Employers,600
+2017,Female,Services,Financial And Insurance Services,Employees,89000
+2017,Female,Services,Financial And Insurance Services,Own Account Workers,9200
+2017,Female,Services,Financial And Insurance Services,Contributing Family Workers,100
+2017,Female,Services,Real Estate Services,Employers,300
+2017,Female,Services,Real Estate Services,Employees,20300
+2017,Female,Services,Real Estate Services,Own Account Workers,8800
+2017,Female,Services,Real Estate Services,Contributing Family Workers,0
+2017,Female,Services,Professional Services,Employers,3000
+2017,Female,Services,Professional Services,Employees,73400
+2017,Female,Services,Professional Services,Own Account Workers,5200
+2017,Female,Services,Professional Services,Contributing Family Workers,400
+2017,Female,Services,Administrative And Support Services,Employers,1700
+2017,Female,Services,Administrative And Support Services,Employees,46300
+2017,Female,Services,Administrative And Support Services,Own Account Workers,3700
+2017,Female,Services,Administrative And Support Services,Contributing Family Workers,200
+2017,Female,Services,Public Administration And Education,Employers,1500
+2017,Female,Services,Public Administration And Education,Employees,123200
+2017,Female,Services,Public Administration And Education,Own Account Workers,8300
+2017,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2017,Female,Services,Health And Social Services,Employers,1200
+2017,Female,Services,Health And Social Services,Employees,92800
+2017,Female,Services,Health And Social Services,Own Account Workers,2300
+2017,Female,Services,Health And Social Services,Contributing Family Workers,0
+2017,Female,Services,"Arts, Entertainment And Recreation",Employers,100
+2017,Female,Services,"Arts, Entertainment And Recreation",Employees,17000
+2017,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,800
+2017,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2017,Female,Services,"Other Community, Social And Personal Services",Employers,2900
+2017,Female,Services,"Other Community, Social And Personal Services",Employees,31600
+2017,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3300
+2017,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,400
+2017,Female,Others,Others,Employers,100
+2017,Female,Others,Others,Employees,6600
+2017,Female,Others,Others,Own Account Workers,100
+2017,Female,Others,Others,Contributing Family Workers,100
+2018,Male,Manufacturing,Manufacturing,Employers,7900
+2018,Male,Manufacturing,Manufacturing,Employees,132800
+2018,Male,Manufacturing,Manufacturing,Own Account Workers,3900
+2018,Male,Manufacturing,Manufacturing,Contributing Family Workers,200
+2018,Male,Construction,Construction,Employers,11500
+2018,Male,Construction,Construction,Employees,57900
+2018,Male,Construction,Construction,Own Account Workers,7000
+2018,Male,Construction,Construction,Contributing Family Workers,200
+2018,Male,Services,Wholesale And Retail Trade,Employers,17100
+2018,Male,Services,Wholesale And Retail Trade,Employees,143500
+2018,Male,Services,Wholesale And Retail Trade,Own Account Workers,14900
+2018,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,900
+2018,Male,Services,Transportation And Storage,Employers,3300
+2018,Male,Services,Transportation And Storage,Employees,89400
+2018,Male,Services,Transportation And Storage,Own Account Workers,58300
+2018,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2018,Male,Services,Accommodation And Food Services,Employers,5200
+2018,Male,Services,Accommodation And Food Services,Employees,47300
+2018,Male,Services,Accommodation And Food Services,Own Account Workers,5500
+2018,Male,Services,Accommodation And Food Services,Contributing Family Workers,1400
+2018,Male,Services,Information And Communications,Employers,3200
+2018,Male,Services,Information And Communications,Employees,48400
+2018,Male,Services,Information And Communications,Own Account Workers,3600
+2018,Male,Services,Information And Communications,Contributing Family Workers,0
+2018,Male,Services,Financial And Insurance Services,Employers,2200
+2018,Male,Services,Financial And Insurance Services,Employees,80800
+2018,Male,Services,Financial And Insurance Services,Own Account Workers,11500
+2018,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2018,Male,Services,Real Estate Services,Employers,700
+2018,Male,Services,Real Estate Services,Employees,17500
+2018,Male,Services,Real Estate Services,Own Account Workers,9500
+2018,Male,Services,Real Estate Services,Contributing Family Workers,100
+2018,Male,Services,Professional Services,Employers,7900
+2018,Male,Services,Professional Services,Employees,74900
+2018,Male,Services,Professional Services,Own Account Workers,9200
+2018,Male,Services,Professional Services,Contributing Family Workers,100
+2018,Male,Services,Administrative And Support Services,Employers,3900
+2018,Male,Services,Administrative And Support Services,Employees,60700
+2018,Male,Services,Administrative And Support Services,Own Account Workers,3700
+2018,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2018,Male,Services,Public Administration And Education,Employers,1200
+2018,Male,Services,Public Administration And Education,Employees,152100
+2018,Male,Services,Public Administration And Education,Own Account Workers,6900
+2018,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2018,Male,Services,Health And Social Services,Employers,2400
+2018,Male,Services,Health And Social Services,Employees,24900
+2018,Male,Services,Health And Social Services,Own Account Workers,1400
+2018,Male,Services,Health And Social Services,Contributing Family Workers,100
+2018,Male,Services,"Arts, Entertainment And Recreation",Employers,300
+2018,Male,Services,"Arts, Entertainment And Recreation",Employees,17200
+2018,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1800
+2018,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2018,Male,Services,"Other Community, Social And Personal Services",Employers,2400
+2018,Male,Services,"Other Community, Social And Personal Services",Employees,21100
+2018,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,4100
+2018,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2018,Male,Others,Others,Employers,200
+2018,Male,Others,Others,Employees,13800
+2018,Male,Others,Others,Own Account Workers,900
+2018,Male,Others,Others,Contributing Family Workers,0
+2018,Female,Manufacturing,Manufacturing,Employers,1800
+2018,Female,Manufacturing,Manufacturing,Employees,79300
+2018,Female,Manufacturing,Manufacturing,Own Account Workers,1500
+2018,Female,Manufacturing,Manufacturing,Contributing Family Workers,400
+2018,Female,Construction,Construction,Employers,1500
+2018,Female,Construction,Construction,Employees,25400
+2018,Female,Construction,Construction,Own Account Workers,600
+2018,Female,Construction,Construction,Contributing Family Workers,300
+2018,Female,Services,Wholesale And Retail Trade,Employers,6900
+2018,Female,Services,Wholesale And Retail Trade,Employees,159300
+2018,Female,Services,Wholesale And Retail Trade,Own Account Workers,8600
+2018,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,1200
+2018,Female,Services,Transportation And Storage,Employers,600
+2018,Female,Services,Transportation And Storage,Employees,45000
+2018,Female,Services,Transportation And Storage,Own Account Workers,2100
+2018,Female,Services,Transportation And Storage,Contributing Family Workers,400
+2018,Female,Services,Accommodation And Food Services,Employers,3500
+2018,Female,Services,Accommodation And Food Services,Employees,64700
+2018,Female,Services,Accommodation And Food Services,Own Account Workers,5200
+2018,Female,Services,Accommodation And Food Services,Contributing Family Workers,1700
+2018,Female,Services,Information And Communications,Employers,400
+2018,Female,Services,Information And Communications,Employees,37000
+2018,Female,Services,Information And Communications,Own Account Workers,1500
+2018,Female,Services,Information And Communications,Contributing Family Workers,0
+2018,Female,Services,Financial And Insurance Services,Employers,400
+2018,Female,Services,Financial And Insurance Services,Employees,92800
+2018,Female,Services,Financial And Insurance Services,Own Account Workers,8300
+2018,Female,Services,Financial And Insurance Services,Contributing Family Workers,100
+2018,Female,Services,Real Estate Services,Employers,300
+2018,Female,Services,Real Estate Services,Employees,19000
+2018,Female,Services,Real Estate Services,Own Account Workers,6900
+2018,Female,Services,Real Estate Services,Contributing Family Workers,100
+2018,Female,Services,Professional Services,Employers,3500
+2018,Female,Services,Professional Services,Employees,73100
+2018,Female,Services,Professional Services,Own Account Workers,5600
+2018,Female,Services,Professional Services,Contributing Family Workers,100
+2018,Female,Services,Administrative And Support Services,Employers,1700
+2018,Female,Services,Administrative And Support Services,Employees,43300
+2018,Female,Services,Administrative And Support Services,Own Account Workers,4200
+2018,Female,Services,Administrative And Support Services,Contributing Family Workers,200
+2018,Female,Services,Public Administration And Education,Employers,1500
+2018,Female,Services,Public Administration And Education,Employees,124400
+2018,Female,Services,Public Administration And Education,Own Account Workers,10600
+2018,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2018,Female,Services,Health And Social Services,Employers,1500
+2018,Female,Services,Health And Social Services,Employees,92600
+2018,Female,Services,Health And Social Services,Own Account Workers,3000
+2018,Female,Services,Health And Social Services,Contributing Family Workers,100
+2018,Female,Services,"Arts, Entertainment And Recreation",Employers,400
+2018,Female,Services,"Arts, Entertainment And Recreation",Employees,17000
+2018,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,1000
+2018,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2018,Female,Services,"Other Community, Social And Personal Services",Employers,2500
+2018,Female,Services,"Other Community, Social And Personal Services",Employees,32700
+2018,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,4000
+2018,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2018,Female,Others,Others,Employers,100
+2018,Female,Others,Others,Employees,6600
+2018,Female,Others,Others,Own Account Workers,0
+2018,Female,Others,Others,Contributing Family Workers,0
+2019,Male,Manufacturing,Manufacturing,Employers,8000
+2019,Male,Manufacturing,Manufacturing,Employees,125600
+2019,Male,Manufacturing,Manufacturing,Own Account Workers,3100
+2019,Male,Manufacturing,Manufacturing,Contributing Family Workers,200
+2019,Male,Construction,Construction,Employers,11000
+2019,Male,Construction,Construction,Employees,54500
+2019,Male,Construction,Construction,Own Account Workers,5400
+2019,Male,Construction,Construction,Contributing Family Workers,100
+2019,Male,Services,Wholesale And Retail Trade,Employers,17400
+2019,Male,Services,Wholesale And Retail Trade,Employees,150500
+2019,Male,Services,Wholesale And Retail Trade,Own Account Workers,12500
+2019,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1300
+2019,Male,Services,Transportation And Storage,Employers,3100
+2019,Male,Services,Transportation And Storage,Employees,89700
+2019,Male,Services,Transportation And Storage,Own Account Workers,63000
+2019,Male,Services,Transportation And Storage,Contributing Family Workers,200
+2019,Male,Services,Accommodation And Food Services,Employers,5800
+2019,Male,Services,Accommodation And Food Services,Employees,46200
+2019,Male,Services,Accommodation And Food Services,Own Account Workers,5300
+2019,Male,Services,Accommodation And Food Services,Contributing Family Workers,900
+2019,Male,Services,Information And Communications,Employers,3400
+2019,Male,Services,Information And Communications,Employees,52700
+2019,Male,Services,Information And Communications,Own Account Workers,4100
+2019,Male,Services,Information And Communications,Contributing Family Workers,0
+2019,Male,Services,Financial And Insurance Services,Employers,1600
+2019,Male,Services,Financial And Insurance Services,Employees,90700
+2019,Male,Services,Financial And Insurance Services,Own Account Workers,11500
+2019,Male,Services,Financial And Insurance Services,Contributing Family Workers,100
+2019,Male,Services,Real Estate Services,Employers,700
+2019,Male,Services,Real Estate Services,Employees,15300
+2019,Male,Services,Real Estate Services,Own Account Workers,7800
+2019,Male,Services,Real Estate Services,Contributing Family Workers,100
+2019,Male,Services,Professional Services,Employers,8000
+2019,Male,Services,Professional Services,Employees,77400
+2019,Male,Services,Professional Services,Own Account Workers,8000
+2019,Male,Services,Professional Services,Contributing Family Workers,100
+2019,Male,Services,Administrative And Support Services,Employers,2400
+2019,Male,Services,Administrative And Support Services,Employees,61300
+2019,Male,Services,Administrative And Support Services,Own Account Workers,3100
+2019,Male,Services,Administrative And Support Services,Contributing Family Workers,0
+2019,Male,Services,Public Administration And Education,Employers,700
+2019,Male,Services,Public Administration And Education,Employees,153600
+2019,Male,Services,Public Administration And Education,Own Account Workers,6000
+2019,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2019,Male,Services,Health And Social Services,Employers,2200
+2019,Male,Services,Health And Social Services,Employees,27500
+2019,Male,Services,Health And Social Services,Own Account Workers,1300
+2019,Male,Services,Health And Social Services,Contributing Family Workers,100
+2019,Male,Services,"Arts, Entertainment And Recreation",Employers,600
+2019,Male,Services,"Arts, Entertainment And Recreation",Employees,13400
+2019,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1700
+2019,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2019,Male,Services,"Other Community, Social And Personal Services",Employers,2800
+2019,Male,Services,"Other Community, Social And Personal Services",Employees,21300
+2019,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,3400
+2019,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2019,Male,Others,Others,Employers,600
+2019,Male,Others,Others,Employees,14200
+2019,Male,Others,Others,Own Account Workers,800
+2019,Male,Others,Others,Contributing Family Workers,0
+2019,Female,Manufacturing,Manufacturing,Employers,1200
+2019,Female,Manufacturing,Manufacturing,Employees,74900
+2019,Female,Manufacturing,Manufacturing,Own Account Workers,1100
+2019,Female,Manufacturing,Manufacturing,Contributing Family Workers,300
+2019,Female,Construction,Construction,Employers,1800
+2019,Female,Construction,Construction,Employees,24400
+2019,Female,Construction,Construction,Own Account Workers,700
+2019,Female,Construction,Construction,Contributing Family Workers,200
+2019,Female,Services,Wholesale And Retail Trade,Employers,7300
+2019,Female,Services,Wholesale And Retail Trade,Employees,157300
+2019,Female,Services,Wholesale And Retail Trade,Own Account Workers,7500
+2019,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2100
+2019,Female,Services,Transportation And Storage,Employers,700
+2019,Female,Services,Transportation And Storage,Employees,46100
+2019,Female,Services,Transportation And Storage,Own Account Workers,2700
+2019,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2019,Female,Services,Accommodation And Food Services,Employers,3100
+2019,Female,Services,Accommodation And Food Services,Employees,64700
+2019,Female,Services,Accommodation And Food Services,Own Account Workers,4000
+2019,Female,Services,Accommodation And Food Services,Contributing Family Workers,1900
+2019,Female,Services,Information And Communications,Employers,1000
+2019,Female,Services,Information And Communications,Employees,39800
+2019,Female,Services,Information And Communications,Own Account Workers,1700
+2019,Female,Services,Information And Communications,Contributing Family Workers,100
+2019,Female,Services,Financial And Insurance Services,Employers,600
+2019,Female,Services,Financial And Insurance Services,Employees,96200
+2019,Female,Services,Financial And Insurance Services,Own Account Workers,8600
+2019,Female,Services,Financial And Insurance Services,Contributing Family Workers,100
+2019,Female,Services,Real Estate Services,Employers,300
+2019,Female,Services,Real Estate Services,Employees,17400
+2019,Female,Services,Real Estate Services,Own Account Workers,6900
+2019,Female,Services,Real Estate Services,Contributing Family Workers,200
+2019,Female,Services,Professional Services,Employers,3700
+2019,Female,Services,Professional Services,Employees,78500
+2019,Female,Services,Professional Services,Own Account Workers,5500
+2019,Female,Services,Professional Services,Contributing Family Workers,300
+2019,Female,Services,Administrative And Support Services,Employers,1600
+2019,Female,Services,Administrative And Support Services,Employees,48700
+2019,Female,Services,Administrative And Support Services,Own Account Workers,2900
+2019,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2019,Female,Services,Public Administration And Education,Employers,1800
+2019,Female,Services,Public Administration And Education,Employees,130600
+2019,Female,Services,Public Administration And Education,Own Account Workers,11300
+2019,Female,Services,Public Administration And Education,Contributing Family Workers,200
+2019,Female,Services,Health And Social Services,Employers,1300
+2019,Female,Services,Health And Social Services,Employees,102100
+2019,Female,Services,Health And Social Services,Own Account Workers,1700
+2019,Female,Services,Health And Social Services,Contributing Family Workers,0
+2019,Female,Services,"Arts, Entertainment And Recreation",Employers,300
+2019,Female,Services,"Arts, Entertainment And Recreation",Employees,17000
+2019,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,1100
+2019,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2019,Female,Services,"Other Community, Social And Personal Services",Employers,2000
+2019,Female,Services,"Other Community, Social And Personal Services",Employees,31000
+2019,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3300
+2019,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,300
+2019,Female,Others,Others,Employers,100
+2019,Female,Others,Others,Employees,7700
+2019,Female,Others,Others,Own Account Workers,200
+2019,Female,Others,Others,Contributing Family Workers,0
+2020,Male,Manufacturing,Manufacturing,Employers,6900
+2020,Male,Manufacturing,Manufacturing,Employees,124700
+2020,Male,Manufacturing,Manufacturing,Own Account Workers,3000
+2020,Male,Manufacturing,Manufacturing,Contributing Family Workers,500
+2020,Male,Construction,Construction,Employers,10400
+2020,Male,Construction,Construction,Employees,52300
+2020,Male,Construction,Construction,Own Account Workers,5900
+2020,Male,Construction,Construction,Contributing Family Workers,300
+2020,Male,Services,Wholesale And Retail Trade,Employers,16100
+2020,Male,Services,Wholesale And Retail Trade,Employees,136600
+2020,Male,Services,Wholesale And Retail Trade,Own Account Workers,13500
+2020,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,1300
+2020,Male,Services,Transportation And Storage,Employers,2800
+2020,Male,Services,Transportation And Storage,Employees,88400
+2020,Male,Services,Transportation And Storage,Own Account Workers,71000
+2020,Male,Services,Transportation And Storage,Contributing Family Workers,100
+2020,Male,Services,Accommodation And Food Services,Employers,6000
+2020,Male,Services,Accommodation And Food Services,Employees,43800
+2020,Male,Services,Accommodation And Food Services,Own Account Workers,4100
+2020,Male,Services,Accommodation And Food Services,Contributing Family Workers,1900
+2020,Male,Services,Information And Communications,Employers,3600
+2020,Male,Services,Information And Communications,Employees,56800
+2020,Male,Services,Information And Communications,Own Account Workers,6000
+2020,Male,Services,Information And Communications,Contributing Family Workers,0
+2020,Male,Services,Financial And Insurance Services,Employers,3100
+2020,Male,Services,Financial And Insurance Services,Employees,85900
+2020,Male,Services,Financial And Insurance Services,Own Account Workers,11100
+2020,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2020,Male,Services,Real Estate Services,Employers,300
+2020,Male,Services,Real Estate Services,Employees,15900
+2020,Male,Services,Real Estate Services,Own Account Workers,7700
+2020,Male,Services,Real Estate Services,Contributing Family Workers,0
+2020,Male,Services,Professional Services,Employers,7000
+2020,Male,Services,Professional Services,Employees,79100
+2020,Male,Services,Professional Services,Own Account Workers,10500
+2020,Male,Services,Professional Services,Contributing Family Workers,0
+2020,Male,Services,Administrative And Support Services,Employers,3900
+2020,Male,Services,Administrative And Support Services,Employees,68600
+2020,Male,Services,Administrative And Support Services,Own Account Workers,2500
+2020,Male,Services,Administrative And Support Services,Contributing Family Workers,300
+2020,Male,Services,Public Administration And Education,Employers,1200
+2020,Male,Services,Public Administration And Education,Employees,147600
+2020,Male,Services,Public Administration And Education,Own Account Workers,7000
+2020,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2020,Male,Services,Health And Social Services,Employers,2500
+2020,Male,Services,Health And Social Services,Employees,27700
+2020,Male,Services,Health And Social Services,Own Account Workers,1300
+2020,Male,Services,Health And Social Services,Contributing Family Workers,300
+2020,Male,Services,"Arts, Entertainment And Recreation",Employers,500
+2020,Male,Services,"Arts, Entertainment And Recreation",Employees,15000
+2020,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1600
+2020,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2020,Male,Services,"Other Community, Social And Personal Services",Employers,3600
+2020,Male,Services,"Other Community, Social And Personal Services",Employees,18400
+2020,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,3700
+2020,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2020,Male,Others,Others,Employers,500
+2020,Male,Others,Others,Employees,14700
+2020,Male,Others,Others,Own Account Workers,300
+2020,Male,Others,Others,Contributing Family Workers,100
+2020,Female,Manufacturing,Manufacturing,Employers,1500
+2020,Female,Manufacturing,Manufacturing,Employees,74900
+2020,Female,Manufacturing,Manufacturing,Own Account Workers,1100
+2020,Female,Manufacturing,Manufacturing,Contributing Family Workers,300
+2020,Female,Construction,Construction,Employers,1900
+2020,Female,Construction,Construction,Employees,25100
+2020,Female,Construction,Construction,Own Account Workers,800
+2020,Female,Construction,Construction,Contributing Family Workers,500
+2020,Female,Services,Wholesale And Retail Trade,Employers,7100
+2020,Female,Services,Wholesale And Retail Trade,Employees,149900
+2020,Female,Services,Wholesale And Retail Trade,Own Account Workers,7900
+2020,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2600
+2020,Female,Services,Transportation And Storage,Employers,1000
+2020,Female,Services,Transportation And Storage,Employees,46900
+2020,Female,Services,Transportation And Storage,Own Account Workers,4400
+2020,Female,Services,Transportation And Storage,Contributing Family Workers,400
+2020,Female,Services,Accommodation And Food Services,Employers,4400
+2020,Female,Services,Accommodation And Food Services,Employees,61000
+2020,Female,Services,Accommodation And Food Services,Own Account Workers,4500
+2020,Female,Services,Accommodation And Food Services,Contributing Family Workers,3100
+2020,Female,Services,Information And Communications,Employers,800
+2020,Female,Services,Information And Communications,Employees,41600
+2020,Female,Services,Information And Communications,Own Account Workers,2600
+2020,Female,Services,Information And Communications,Contributing Family Workers,100
+2020,Female,Services,Financial And Insurance Services,Employers,1000
+2020,Female,Services,Financial And Insurance Services,Employees,97400
+2020,Female,Services,Financial And Insurance Services,Own Account Workers,9200
+2020,Female,Services,Financial And Insurance Services,Contributing Family Workers,200
+2020,Female,Services,Real Estate Services,Employers,100
+2020,Female,Services,Real Estate Services,Employees,17700
+2020,Female,Services,Real Estate Services,Own Account Workers,8000
+2020,Female,Services,Real Estate Services,Contributing Family Workers,100
+2020,Female,Services,Professional Services,Employers,3100
+2020,Female,Services,Professional Services,Employees,75400
+2020,Female,Services,Professional Services,Own Account Workers,5900
+2020,Female,Services,Professional Services,Contributing Family Workers,400
+2020,Female,Services,Administrative And Support Services,Employers,1200
+2020,Female,Services,Administrative And Support Services,Employees,48300
+2020,Female,Services,Administrative And Support Services,Own Account Workers,3300
+2020,Female,Services,Administrative And Support Services,Contributing Family Workers,200
+2020,Female,Services,Public Administration And Education,Employers,1700
+2020,Female,Services,Public Administration And Education,Employees,126100
+2020,Female,Services,Public Administration And Education,Own Account Workers,10200
+2020,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2020,Female,Services,Health And Social Services,Employers,1700
+2020,Female,Services,Health And Social Services,Employees,103200
+2020,Female,Services,Health And Social Services,Own Account Workers,3000
+2020,Female,Services,Health And Social Services,Contributing Family Workers,200
+2020,Female,Services,"Arts, Entertainment And Recreation",Employers,300
+2020,Female,Services,"Arts, Entertainment And Recreation",Employees,16000
+2020,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,900
+2020,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2020,Female,Services,"Other Community, Social And Personal Services",Employers,3300
+2020,Female,Services,"Other Community, Social And Personal Services",Employees,32000
+2020,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3800
+2020,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,400
+2020,Female,Others,Others,Employers,0
+2020,Female,Others,Others,Employees,5700
+2020,Female,Others,Others,Own Account Workers,100
+2020,Female,Others,Others,Contributing Family Workers,0
+2021,Male,Manufacturing,Manufacturing,Employers,5500
+2021,Male,Manufacturing,Manufacturing,Employees,123000
+2021,Male,Manufacturing,Manufacturing,Own Account Workers,3100
+2021,Male,Manufacturing,Manufacturing,Contributing Family Workers,200
+2021,Male,Construction,Construction,Employers,10900
+2021,Male,Construction,Construction,Employees,52000
+2021,Male,Construction,Construction,Own Account Workers,5600
+2021,Male,Construction,Construction,Contributing Family Workers,100
+2021,Male,Services,Wholesale And Retail Trade,Employers,16800
+2021,Male,Services,Wholesale And Retail Trade,Employees,138300
+2021,Male,Services,Wholesale And Retail Trade,Own Account Workers,13300
+2021,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,600
+2021,Male,Services,Transportation And Storage,Employers,3000
+2021,Male,Services,Transportation And Storage,Employees,85800
+2021,Male,Services,Transportation And Storage,Own Account Workers,62200
+2021,Male,Services,Transportation And Storage,Contributing Family Workers,200
+2021,Male,Services,Accommodation And Food Services,Employers,5800
+2021,Male,Services,Accommodation And Food Services,Employees,43100
+2021,Male,Services,Accommodation And Food Services,Own Account Workers,5400
+2021,Male,Services,Accommodation And Food Services,Contributing Family Workers,900
+2021,Male,Services,Information And Communications,Employers,2900
+2021,Male,Services,Information And Communications,Employees,61800
+2021,Male,Services,Information And Communications,Own Account Workers,5700
+2021,Male,Services,Information And Communications,Contributing Family Workers,100
+2021,Male,Services,Financial And Insurance Services,Employers,2800
+2021,Male,Services,Financial And Insurance Services,Employees,93300
+2021,Male,Services,Financial And Insurance Services,Own Account Workers,14600
+2021,Male,Services,Financial And Insurance Services,Contributing Family Workers,100
+2021,Male,Services,Real Estate Services,Employers,300
+2021,Male,Services,Real Estate Services,Employees,14900
+2021,Male,Services,Real Estate Services,Own Account Workers,9000
+2021,Male,Services,Real Estate Services,Contributing Family Workers,0
+2021,Male,Services,Professional Services,Employers,7900
+2021,Male,Services,Professional Services,Employees,83100
+2021,Male,Services,Professional Services,Own Account Workers,9700
+2021,Male,Services,Professional Services,Contributing Family Workers,200
+2021,Male,Services,Administrative And Support Services,Employers,2700
+2021,Male,Services,Administrative And Support Services,Employees,64300
+2021,Male,Services,Administrative And Support Services,Own Account Workers,2800
+2021,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2021,Male,Services,Public Administration And Education,Employers,1200
+2021,Male,Services,Public Administration And Education,Employees,157400
+2021,Male,Services,Public Administration And Education,Own Account Workers,7900
+2021,Male,Services,Public Administration And Education,Contributing Family Workers,200
+2021,Male,Services,Health And Social Services,Employers,2300
+2021,Male,Services,Health And Social Services,Employees,33400
+2021,Male,Services,Health And Social Services,Own Account Workers,1000
+2021,Male,Services,Health And Social Services,Contributing Family Workers,100
+2021,Male,Services,"Arts, Entertainment And Recreation",Employers,400
+2021,Male,Services,"Arts, Entertainment And Recreation",Employees,15100
+2021,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1300
+2021,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2021,Male,Services,"Other Community, Social And Personal Services",Employers,3200
+2021,Male,Services,"Other Community, Social And Personal Services",Employees,23700
+2021,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,4300
+2021,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,200
+2021,Male,Others,Others,Employers,300
+2021,Male,Others,Others,Employees,15200
+2021,Male,Others,Others,Own Account Workers,800
+2021,Male,Others,Others,Contributing Family Workers,0
+2021,Female,Manufacturing,Manufacturing,Employers,2000
+2021,Female,Manufacturing,Manufacturing,Employees,75600
+2021,Female,Manufacturing,Manufacturing,Own Account Workers,2100
+2021,Female,Manufacturing,Manufacturing,Contributing Family Workers,500
+2021,Female,Construction,Construction,Employers,2100
+2021,Female,Construction,Construction,Employees,26600
+2021,Female,Construction,Construction,Own Account Workers,600
+2021,Female,Construction,Construction,Contributing Family Workers,400
+2021,Female,Services,Wholesale And Retail Trade,Employers,5900
+2021,Female,Services,Wholesale And Retail Trade,Employees,154600
+2021,Female,Services,Wholesale And Retail Trade,Own Account Workers,6900
+2021,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,2100
+2021,Female,Services,Transportation And Storage,Employers,500
+2021,Female,Services,Transportation And Storage,Employees,46000
+2021,Female,Services,Transportation And Storage,Own Account Workers,3000
+2021,Female,Services,Transportation And Storage,Contributing Family Workers,100
+2021,Female,Services,Accommodation And Food Services,Employers,2800
+2021,Female,Services,Accommodation And Food Services,Employees,62100
+2021,Female,Services,Accommodation And Food Services,Own Account Workers,3700
+2021,Female,Services,Accommodation And Food Services,Contributing Family Workers,1400
+2021,Female,Services,Information And Communications,Employers,700
+2021,Female,Services,Information And Communications,Employees,45900
+2021,Female,Services,Information And Communications,Own Account Workers,3100
+2021,Female,Services,Information And Communications,Contributing Family Workers,200
+2021,Female,Services,Financial And Insurance Services,Employers,600
+2021,Female,Services,Financial And Insurance Services,Employees,102800
+2021,Female,Services,Financial And Insurance Services,Own Account Workers,10800
+2021,Female,Services,Financial And Insurance Services,Contributing Family Workers,200
+2021,Female,Services,Real Estate Services,Employers,300
+2021,Female,Services,Real Estate Services,Employees,18000
+2021,Female,Services,Real Estate Services,Own Account Workers,8500
+2021,Female,Services,Real Estate Services,Contributing Family Workers,100
+2021,Female,Services,Professional Services,Employers,2500
+2021,Female,Services,Professional Services,Employees,87200
+2021,Female,Services,Professional Services,Own Account Workers,5500
+2021,Female,Services,Professional Services,Contributing Family Workers,300
+2021,Female,Services,Administrative And Support Services,Employers,900
+2021,Female,Services,Administrative And Support Services,Employees,45800
+2021,Female,Services,Administrative And Support Services,Own Account Workers,3000
+2021,Female,Services,Administrative And Support Services,Contributing Family Workers,300
+2021,Female,Services,Public Administration And Education,Employers,1300
+2021,Female,Services,Public Administration And Education,Employees,136400
+2021,Female,Services,Public Administration And Education,Own Account Workers,10900
+2021,Female,Services,Public Administration And Education,Contributing Family Workers,300
+2021,Female,Services,Health And Social Services,Employers,1500
+2021,Female,Services,Health And Social Services,Employees,111800
+2021,Female,Services,Health And Social Services,Own Account Workers,2700
+2021,Female,Services,Health And Social Services,Contributing Family Workers,100
+2021,Female,Services,"Arts, Entertainment And Recreation",Employers,100
+2021,Female,Services,"Arts, Entertainment And Recreation",Employees,15400
+2021,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,600
+2021,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2021,Female,Services,"Other Community, Social And Personal Services",Employers,2400
+2021,Female,Services,"Other Community, Social And Personal Services",Employees,35200
+2021,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3700
+2021,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,800
+2021,Female,Others,Others,Employers,100
+2021,Female,Others,Others,Employees,6600
+2021,Female,Others,Others,Own Account Workers,300
+2021,Female,Others,Others,Contributing Family Workers,100
+2022,Male,Manufacturing,Manufacturing,Employers,6400
+2022,Male,Manufacturing,Manufacturing,Employees,131300
+2022,Male,Manufacturing,Manufacturing,Own Account Workers,3700
+2022,Male,Manufacturing,Manufacturing,Contributing Family Workers,300
+2022,Male,Construction,Construction,Employers,10200
+2022,Male,Construction,Construction,Employees,53300
+2022,Male,Construction,Construction,Own Account Workers,5200
+2022,Male,Construction,Construction,Contributing Family Workers,100
+2022,Male,Services,Wholesale And Retail Trade,Employers,17800
+2022,Male,Services,Wholesale And Retail Trade,Employees,144100
+2022,Male,Services,Wholesale And Retail Trade,Own Account Workers,11700
+2022,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,400
+2022,Male,Services,Transportation And Storage,Employers,2500
+2022,Male,Services,Transportation And Storage,Employees,85200
+2022,Male,Services,Transportation And Storage,Own Account Workers,64900
+2022,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2022,Male,Services,Accommodation And Food Services,Employers,4200
+2022,Male,Services,Accommodation And Food Services,Employees,44500
+2022,Male,Services,Accommodation And Food Services,Own Account Workers,5100
+2022,Male,Services,Accommodation And Food Services,Contributing Family Workers,1000
+2022,Male,Services,Information And Communications,Employers,3300
+2022,Male,Services,Information And Communications,Employees,70700
+2022,Male,Services,Information And Communications,Own Account Workers,5300
+2022,Male,Services,Information And Communications,Contributing Family Workers,0
+2022,Male,Services,Financial And Insurance Services,Employers,3000
+2022,Male,Services,Financial And Insurance Services,Employees,101300
+2022,Male,Services,Financial And Insurance Services,Own Account Workers,13200
+2022,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2022,Male,Services,Real Estate Services,Employers,600
+2022,Male,Services,Real Estate Services,Employees,18600
+2022,Male,Services,Real Estate Services,Own Account Workers,10300
+2022,Male,Services,Real Estate Services,Contributing Family Workers,0
+2022,Male,Services,Professional Services,Employers,7700
+2022,Male,Services,Professional Services,Employees,86000
+2022,Male,Services,Professional Services,Own Account Workers,10300
+2022,Male,Services,Professional Services,Contributing Family Workers,200
+2022,Male,Services,Administrative And Support Services,Employers,2900
+2022,Male,Services,Administrative And Support Services,Employees,65600
+2022,Male,Services,Administrative And Support Services,Own Account Workers,1500
+2022,Male,Services,Administrative And Support Services,Contributing Family Workers,300
+2022,Male,Services,Public Administration And Education,Employers,1400
+2022,Male,Services,Public Administration And Education,Employees,157100
+2022,Male,Services,Public Administration And Education,Own Account Workers,6000
+2022,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2022,Male,Services,Health And Social Services,Employers,2700
+2022,Male,Services,Health And Social Services,Employees,35200
+2022,Male,Services,Health And Social Services,Own Account Workers,800
+2022,Male,Services,Health And Social Services,Contributing Family Workers,0
+2022,Male,Services,"Arts, Entertainment And Recreation",Employers,300
+2022,Male,Services,"Arts, Entertainment And Recreation",Employees,14300
+2022,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1300
+2022,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2022,Male,Services,"Other Community, Social And Personal Services",Employers,3000
+2022,Male,Services,"Other Community, Social And Personal Services",Employees,23200
+2022,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,3600
+2022,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2022,Male,Others,Others,Employers,400
+2022,Male,Others,Others,Employees,13900
+2022,Male,Others,Others,Own Account Workers,300
+2022,Male,Others,Others,Contributing Family Workers,0
+2022,Female,Manufacturing,Manufacturing,Employers,2000
+2022,Female,Manufacturing,Manufacturing,Employees,79200
+2022,Female,Manufacturing,Manufacturing,Own Account Workers,1500
+2022,Female,Manufacturing,Manufacturing,Contributing Family Workers,500
+2022,Female,Construction,Construction,Employers,1500
+2022,Female,Construction,Construction,Employees,27000
+2022,Female,Construction,Construction,Own Account Workers,300
+2022,Female,Construction,Construction,Contributing Family Workers,300
+2022,Female,Services,Wholesale And Retail Trade,Employers,7500
+2022,Female,Services,Wholesale And Retail Trade,Employees,161500
+2022,Female,Services,Wholesale And Retail Trade,Own Account Workers,8000
+2022,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,700
+2022,Female,Services,Transportation And Storage,Employers,900
+2022,Female,Services,Transportation And Storage,Employees,48600
+2022,Female,Services,Transportation And Storage,Own Account Workers,5300
+2022,Female,Services,Transportation And Storage,Contributing Family Workers,0
+2022,Female,Services,Accommodation And Food Services,Employers,3000
+2022,Female,Services,Accommodation And Food Services,Employees,64300
+2022,Female,Services,Accommodation And Food Services,Own Account Workers,3500
+2022,Female,Services,Accommodation And Food Services,Contributing Family Workers,1100
+2022,Female,Services,Information And Communications,Employers,1200
+2022,Female,Services,Information And Communications,Employees,50300
+2022,Female,Services,Information And Communications,Own Account Workers,2100
+2022,Female,Services,Information And Communications,Contributing Family Workers,0
+2022,Female,Services,Financial And Insurance Services,Employers,1100
+2022,Female,Services,Financial And Insurance Services,Employees,106700
+2022,Female,Services,Financial And Insurance Services,Own Account Workers,10400
+2022,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2022,Female,Services,Real Estate Services,Employers,400
+2022,Female,Services,Real Estate Services,Employees,20100
+2022,Female,Services,Real Estate Services,Own Account Workers,9600
+2022,Female,Services,Real Estate Services,Contributing Family Workers,200
+2022,Female,Services,Professional Services,Employers,3000
+2022,Female,Services,Professional Services,Employees,85300
+2022,Female,Services,Professional Services,Own Account Workers,4800
+2022,Female,Services,Professional Services,Contributing Family Workers,300
+2022,Female,Services,Administrative And Support Services,Employers,1400
+2022,Female,Services,Administrative And Support Services,Employees,46400
+2022,Female,Services,Administrative And Support Services,Own Account Workers,2100
+2022,Female,Services,Administrative And Support Services,Contributing Family Workers,0
+2022,Female,Services,Public Administration And Education,Employers,2300
+2022,Female,Services,Public Administration And Education,Employees,131800
+2022,Female,Services,Public Administration And Education,Own Account Workers,11000
+2022,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2022,Female,Services,Health And Social Services,Employers,1700
+2022,Female,Services,Health And Social Services,Employees,117500
+2022,Female,Services,Health And Social Services,Own Account Workers,2400
+2022,Female,Services,Health And Social Services,Contributing Family Workers,0
+2022,Female,Services,"Arts, Entertainment And Recreation",Employers,400
+2022,Female,Services,"Arts, Entertainment And Recreation",Employees,16700
+2022,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,1600
+2022,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2022,Female,Services,"Other Community, Social And Personal Services",Employers,2500
+2022,Female,Services,"Other Community, Social And Personal Services",Employees,32600
+2022,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,4600
+2022,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2022,Female,Others,Others,Employers,300
+2022,Female,Others,Others,Employees,6800
+2022,Female,Others,Others,Own Account Workers,100
+2022,Female,Others,Others,Contributing Family Workers,0
+2023,Male,Manufacturing,Manufacturing,Employers,5700
+2023,Male,Manufacturing,Manufacturing,Employees,120500
+2023,Male,Manufacturing,Manufacturing,Own Account Workers,3900
+2023,Male,Manufacturing,Manufacturing,Contributing Family Workers,100
+2023,Male,Construction,Construction,Employers,6700
+2023,Male,Construction,Construction,Employees,53200
+2023,Male,Construction,Construction,Own Account Workers,6000
+2023,Male,Construction,Construction,Contributing Family Workers,200
+2023,Male,Services,Wholesale And Retail Trade,Employers,14200
+2023,Male,Services,Wholesale And Retail Trade,Employees,143200
+2023,Male,Services,Wholesale And Retail Trade,Own Account Workers,11400
+2023,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,900
+2023,Male,Services,Transportation And Storage,Employers,2300
+2023,Male,Services,Transportation And Storage,Employees,96200
+2023,Male,Services,Transportation And Storage,Own Account Workers,63700
+2023,Male,Services,Transportation And Storage,Contributing Family Workers,200
+2023,Male,Services,Accommodation And Food Services,Employers,4300
+2023,Male,Services,Accommodation And Food Services,Employees,50800
+2023,Male,Services,Accommodation And Food Services,Own Account Workers,5900
+2023,Male,Services,Accommodation And Food Services,Contributing Family Workers,900
+2023,Male,Services,Information And Communications,Employers,2400
+2023,Male,Services,Information And Communications,Employees,71800
+2023,Male,Services,Information And Communications,Own Account Workers,5600
+2023,Male,Services,Information And Communications,Contributing Family Workers,100
+2023,Male,Services,Financial And Insurance Services,Employers,2000
+2023,Male,Services,Financial And Insurance Services,Employees,103900
+2023,Male,Services,Financial And Insurance Services,Own Account Workers,11400
+2023,Male,Services,Financial And Insurance Services,Contributing Family Workers,100
+2023,Male,Services,Real Estate Services,Employers,600
+2023,Male,Services,Real Estate Services,Employees,17800
+2023,Male,Services,Real Estate Services,Own Account Workers,9900
+2023,Male,Services,Real Estate Services,Contributing Family Workers,0
+2023,Male,Services,Professional Services,Employers,7700
+2023,Male,Services,Professional Services,Employees,84300
+2023,Male,Services,Professional Services,Own Account Workers,8800
+2023,Male,Services,Professional Services,Contributing Family Workers,200
+2023,Male,Services,Administrative And Support Services,Employers,2300
+2023,Male,Services,Administrative And Support Services,Employees,65900
+2023,Male,Services,Administrative And Support Services,Own Account Workers,1900
+2023,Male,Services,Administrative And Support Services,Contributing Family Workers,100
+2023,Male,Services,Public Administration And Education,Employers,1400
+2023,Male,Services,Public Administration And Education,Employees,147000
+2023,Male,Services,Public Administration And Education,Own Account Workers,7400
+2023,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2023,Male,Services,Health And Social Services,Employers,1700
+2023,Male,Services,Health And Social Services,Employees,34400
+2023,Male,Services,Health And Social Services,Own Account Workers,800
+2023,Male,Services,Health And Social Services,Contributing Family Workers,100
+2023,Male,Services,"Arts, Entertainment And Recreation",Employers,500
+2023,Male,Services,"Arts, Entertainment And Recreation",Employees,16300
+2023,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1300
+2023,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,100
+2023,Male,Services,"Other Community, Social And Personal Services",Employers,2500
+2023,Male,Services,"Other Community, Social And Personal Services",Employees,24900
+2023,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,3800
+2023,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,0
+2023,Male,Others,Others,Employers,100
+2023,Male,Others,Others,Employees,13900
+2023,Male,Others,Others,Own Account Workers,500
+2023,Male,Others,Others,Contributing Family Workers,100
+2023,Female,Manufacturing,Manufacturing,Employers,1300
+2023,Female,Manufacturing,Manufacturing,Employees,78000
+2023,Female,Manufacturing,Manufacturing,Own Account Workers,2000
+2023,Female,Manufacturing,Manufacturing,Contributing Family Workers,400
+2023,Female,Construction,Construction,Employers,1400
+2023,Female,Construction,Construction,Employees,25900
+2023,Female,Construction,Construction,Own Account Workers,400
+2023,Female,Construction,Construction,Contributing Family Workers,400
+2023,Female,Services,Wholesale And Retail Trade,Employers,5000
+2023,Female,Services,Wholesale And Retail Trade,Employees,152000
+2023,Female,Services,Wholesale And Retail Trade,Own Account Workers,7500
+2023,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,1600
+2023,Female,Services,Transportation And Storage,Employers,700
+2023,Female,Services,Transportation And Storage,Employees,47700
+2023,Female,Services,Transportation And Storage,Own Account Workers,3200
+2023,Female,Services,Transportation And Storage,Contributing Family Workers,200
+2023,Female,Services,Accommodation And Food Services,Employers,1800
+2023,Female,Services,Accommodation And Food Services,Employees,71000
+2023,Female,Services,Accommodation And Food Services,Own Account Workers,3200
+2023,Female,Services,Accommodation And Food Services,Contributing Family Workers,1600
+2023,Female,Services,Information And Communications,Employers,800
+2023,Female,Services,Information And Communications,Employees,52300
+2023,Female,Services,Information And Communications,Own Account Workers,2900
+2023,Female,Services,Information And Communications,Contributing Family Workers,100
+2023,Female,Services,Financial And Insurance Services,Employers,500
+2023,Female,Services,Financial And Insurance Services,Employees,109700
+2023,Female,Services,Financial And Insurance Services,Own Account Workers,8500
+2023,Female,Services,Financial And Insurance Services,Contributing Family Workers,100
+2023,Female,Services,Real Estate Services,Employers,300
+2023,Female,Services,Real Estate Services,Employees,19200
+2023,Female,Services,Real Estate Services,Own Account Workers,9400
+2023,Female,Services,Real Estate Services,Contributing Family Workers,0
+2023,Female,Services,Professional Services,Employers,1900
+2023,Female,Services,Professional Services,Employees,91000
+2023,Female,Services,Professional Services,Own Account Workers,5800
+2023,Female,Services,Professional Services,Contributing Family Workers,0
+2023,Female,Services,Administrative And Support Services,Employers,1400
+2023,Female,Services,Administrative And Support Services,Employees,51200
+2023,Female,Services,Administrative And Support Services,Own Account Workers,2000
+2023,Female,Services,Administrative And Support Services,Contributing Family Workers,400
+2023,Female,Services,Public Administration And Education,Employers,1500
+2023,Female,Services,Public Administration And Education,Employees,138300
+2023,Female,Services,Public Administration And Education,Own Account Workers,9900
+2023,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2023,Female,Services,Health And Social Services,Employers,1300
+2023,Female,Services,Health And Social Services,Employees,127400
+2023,Female,Services,Health And Social Services,Own Account Workers,2500
+2023,Female,Services,Health And Social Services,Contributing Family Workers,100
+2023,Female,Services,"Arts, Entertainment And Recreation",Employers,0
+2023,Female,Services,"Arts, Entertainment And Recreation",Employees,16700
+2023,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,700
+2023,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2023,Female,Services,"Other Community, Social And Personal Services",Employers,1600
+2023,Female,Services,"Other Community, Social And Personal Services",Employees,33600
+2023,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,4500
+2023,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,400
+2023,Female,Others,Others,Employers,0
+2023,Female,Others,Others,Employees,6600
+2023,Female,Others,Others,Own Account Workers,100
+2023,Female,Others,Others,Contributing Family Workers,0
+2024,Male,Manufacturing,Manufacturing,Employers,5600
+2024,Male,Manufacturing,Manufacturing,Employees,123700
+2024,Male,Manufacturing,Manufacturing,Own Account Workers,2800
+2024,Male,Manufacturing,Manufacturing,Contributing Family Workers,100
+2024,Male,Construction,Construction,Employers,8600
+2024,Male,Construction,Construction,Employees,58700
+2024,Male,Construction,Construction,Own Account Workers,5300
+2024,Male,Construction,Construction,Contributing Family Workers,100
+2024,Male,Services,Wholesale And Retail Trade,Employers,14100
+2024,Male,Services,Wholesale And Retail Trade,Employees,138200
+2024,Male,Services,Wholesale And Retail Trade,Own Account Workers,9600
+2024,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,600
+2024,Male,Services,Transportation And Storage,Employers,2500
+2024,Male,Services,Transportation And Storage,Employees,89500
+2024,Male,Services,Transportation And Storage,Own Account Workers,59700
+2024,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2024,Male,Services,Accommodation And Food Services,Employers,4900
+2024,Male,Services,Accommodation And Food Services,Employees,53500
+2024,Male,Services,Accommodation And Food Services,Own Account Workers,3800
+2024,Male,Services,Accommodation And Food Services,Contributing Family Workers,500
+2024,Male,Services,Information And Communications,Employers,2400
+2024,Male,Services,Information And Communications,Employees,70900
+2024,Male,Services,Information And Communications,Own Account Workers,6100
+2024,Male,Services,Information And Communications,Contributing Family Workers,100
+2024,Male,Services,Financial And Insurance Services,Employers,2400
+2024,Male,Services,Financial And Insurance Services,Employees,98900
+2024,Male,Services,Financial And Insurance Services,Own Account Workers,11700
+2024,Male,Services,Financial And Insurance Services,Contributing Family Workers,0
+2024,Male,Services,Real Estate Services,Employers,500
+2024,Male,Services,Real Estate Services,Employees,18100
+2024,Male,Services,Real Estate Services,Own Account Workers,9800
+2024,Male,Services,Real Estate Services,Contributing Family Workers,100
+2024,Male,Services,Professional Services,Employers,7700
+2024,Male,Services,Professional Services,Employees,85600
+2024,Male,Services,Professional Services,Own Account Workers,7600
+2024,Male,Services,Professional Services,Contributing Family Workers,200
+2024,Male,Services,Administrative And Support Services,Employers,3000
+2024,Male,Services,Administrative And Support Services,Employees,65800
+2024,Male,Services,Administrative And Support Services,Own Account Workers,3100
+2024,Male,Services,Administrative And Support Services,Contributing Family Workers,0
+2024,Male,Services,Public Administration And Education,Employers,1500
+2024,Male,Services,Public Administration And Education,Employees,152300
+2024,Male,Services,Public Administration And Education,Own Account Workers,6400
+2024,Male,Services,Public Administration And Education,Contributing Family Workers,100
+2024,Male,Services,Health And Social Services,Employers,1700
+2024,Male,Services,Health And Social Services,Employees,35900
+2024,Male,Services,Health And Social Services,Own Account Workers,1100
+2024,Male,Services,Health And Social Services,Contributing Family Workers,0
+2024,Male,Services,"Arts, Entertainment And Recreation",Employers,900
+2024,Male,Services,"Arts, Entertainment And Recreation",Employees,16200
+2024,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1300
+2024,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2024,Male,Services,"Other Community, Social And Personal Services",Employers,2400
+2024,Male,Services,"Other Community, Social And Personal Services",Employees,23300
+2024,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,3300
+2024,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2024,Male,Others,Others,Employers,600
+2024,Male,Others,Others,Employees,14900
+2024,Male,Others,Others,Own Account Workers,200
+2024,Male,Others,Others,Contributing Family Workers,0
+2024,Female,Manufacturing,Manufacturing,Employers,1600
+2024,Female,Manufacturing,Manufacturing,Employees,76900
+2024,Female,Manufacturing,Manufacturing,Own Account Workers,1200
+2024,Female,Manufacturing,Manufacturing,Contributing Family Workers,200
+2024,Female,Construction,Construction,Employers,1300
+2024,Female,Construction,Construction,Employees,28300
+2024,Female,Construction,Construction,Own Account Workers,300
+2024,Female,Construction,Construction,Contributing Family Workers,300
+2024,Female,Services,Wholesale And Retail Trade,Employers,5100
+2024,Female,Services,Wholesale And Retail Trade,Employees,160800
+2024,Female,Services,Wholesale And Retail Trade,Own Account Workers,7000
+2024,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,700
+2024,Female,Services,Transportation And Storage,Employers,800
+2024,Female,Services,Transportation And Storage,Employees,42600
+2024,Female,Services,Transportation And Storage,Own Account Workers,2600
+2024,Female,Services,Transportation And Storage,Contributing Family Workers,200
+2024,Female,Services,Accommodation And Food Services,Employers,3400
+2024,Female,Services,Accommodation And Food Services,Employees,77400
+2024,Female,Services,Accommodation And Food Services,Own Account Workers,2900
+2024,Female,Services,Accommodation And Food Services,Contributing Family Workers,1200
+2024,Female,Services,Information And Communications,Employers,600
+2024,Female,Services,Information And Communications,Employees,56100
+2024,Female,Services,Information And Communications,Own Account Workers,2900
+2024,Female,Services,Information And Communications,Contributing Family Workers,0
+2024,Female,Services,Financial And Insurance Services,Employers,600
+2024,Female,Services,Financial And Insurance Services,Employees,116000
+2024,Female,Services,Financial And Insurance Services,Own Account Workers,9700
+2024,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2024,Female,Services,Real Estate Services,Employers,100
+2024,Female,Services,Real Estate Services,Employees,19000
+2024,Female,Services,Real Estate Services,Own Account Workers,8500
+2024,Female,Services,Real Estate Services,Contributing Family Workers,200
+2024,Female,Services,Professional Services,Employers,3900
+2024,Female,Services,Professional Services,Employees,87000
+2024,Female,Services,Professional Services,Own Account Workers,4900
+2024,Female,Services,Professional Services,Contributing Family Workers,100
+2024,Female,Services,Administrative And Support Services,Employers,1400
+2024,Female,Services,Administrative And Support Services,Employees,48200
+2024,Female,Services,Administrative And Support Services,Own Account Workers,2200
+2024,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2024,Female,Services,Public Administration And Education,Employers,1300
+2024,Female,Services,Public Administration And Education,Employees,134100
+2024,Female,Services,Public Administration And Education,Own Account Workers,10000
+2024,Female,Services,Public Administration And Education,Contributing Family Workers,100
+2024,Female,Services,Health And Social Services,Employers,1300
+2024,Female,Services,Health And Social Services,Employees,132000
+2024,Female,Services,Health And Social Services,Own Account Workers,2500
+2024,Female,Services,Health And Social Services,Contributing Family Workers,0
+2024,Female,Services,"Arts, Entertainment And Recreation",Employers,300
+2024,Female,Services,"Arts, Entertainment And Recreation",Employees,18200
+2024,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,900
+2024,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2024,Female,Services,"Other Community, Social And Personal Services",Employers,2400
+2024,Female,Services,"Other Community, Social And Personal Services",Employees,37400
+2024,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,4000
+2024,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2024,Female,Others,Others,Employers,100
+2024,Female,Others,Others,Employees,6400
+2024,Female,Others,Others,Own Account Workers,0
+2024,Female,Others,Others,Contributing Family Workers,100
+2025,Male,Manufacturing,Manufacturing,Employers,5500
+2025,Male,Manufacturing,Manufacturing,Employees,120900
+2025,Male,Manufacturing,Manufacturing,Own Account Workers,3000
+2025,Male,Manufacturing,Manufacturing,Contributing Family Workers,300
+2025,Male,Construction,Construction,Employers,8700
+2025,Male,Construction,Construction,Employees,56800
+2025,Male,Construction,Construction,Own Account Workers,3400
+2025,Male,Construction,Construction,Contributing Family Workers,100
+2025,Male,Services,Wholesale And Retail Trade,Employers,13200
+2025,Male,Services,Wholesale And Retail Trade,Employees,147600
+2025,Male,Services,Wholesale And Retail Trade,Own Account Workers,9100
+2025,Male,Services,Wholesale And Retail Trade,Contributing Family Workers,800
+2025,Male,Services,Transportation And Storage,Employers,1900
+2025,Male,Services,Transportation And Storage,Employees,89400
+2025,Male,Services,Transportation And Storage,Own Account Workers,64900
+2025,Male,Services,Transportation And Storage,Contributing Family Workers,0
+2025,Male,Services,Accommodation And Food Services,Employers,3900
+2025,Male,Services,Accommodation And Food Services,Employees,54200
+2025,Male,Services,Accommodation And Food Services,Own Account Workers,4500
+2025,Male,Services,Accommodation And Food Services,Contributing Family Workers,1000
+2025,Male,Services,Information And Communications,Employers,3600
+2025,Male,Services,Information And Communications,Employees,66800
+2025,Male,Services,Information And Communications,Own Account Workers,4500
+2025,Male,Services,Information And Communications,Contributing Family Workers,100
+2025,Male,Services,Financial And Insurance Services,Employers,2300
+2025,Male,Services,Financial And Insurance Services,Employees,97200
+2025,Male,Services,Financial And Insurance Services,Own Account Workers,12100
+2025,Male,Services,Financial And Insurance Services,Contributing Family Workers,100
+2025,Male,Services,Real Estate Services,Employers,600
+2025,Male,Services,Real Estate Services,Employees,17800
+2025,Male,Services,Real Estate Services,Own Account Workers,9800
+2025,Male,Services,Real Estate Services,Contributing Family Workers,0
+2025,Male,Services,Professional Services,Employers,6700
+2025,Male,Services,Professional Services,Employees,81400
+2025,Male,Services,Professional Services,Own Account Workers,8600
+2025,Male,Services,Professional Services,Contributing Family Workers,100
+2025,Male,Services,Administrative And Support Services,Employers,2700
+2025,Male,Services,Administrative And Support Services,Employees,66300
+2025,Male,Services,Administrative And Support Services,Own Account Workers,2200
+2025,Male,Services,Administrative And Support Services,Contributing Family Workers,0
+2025,Male,Services,Public Administration And Education,Employers,1300
+2025,Male,Services,Public Administration And Education,Employees,156500
+2025,Male,Services,Public Administration And Education,Own Account Workers,6500
+2025,Male,Services,Public Administration And Education,Contributing Family Workers,0
+2025,Male,Services,Health And Social Services,Employers,2100
+2025,Male,Services,Health And Social Services,Employees,38500
+2025,Male,Services,Health And Social Services,Own Account Workers,800
+2025,Male,Services,Health And Social Services,Contributing Family Workers,0
+2025,Male,Services,"Arts, Entertainment And Recreation",Employers,400
+2025,Male,Services,"Arts, Entertainment And Recreation",Employees,17100
+2025,Male,Services,"Arts, Entertainment And Recreation",Own Account Workers,1400
+2025,Male,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2025,Male,Services,"Other Community, Social And Personal Services",Employers,2600
+2025,Male,Services,"Other Community, Social And Personal Services",Employees,27600
+2025,Male,Services,"Other Community, Social And Personal Services",Own Account Workers,2200
+2025,Male,Services,"Other Community, Social And Personal Services",Contributing Family Workers,300
+2025,Male,Others,Others,Employers,200
+2025,Male,Others,Others,Employees,13500
+2025,Male,Others,Others,Own Account Workers,200
+2025,Male,Others,Others,Contributing Family Workers,0
+2025,Female,Manufacturing,Manufacturing,Employers,1500
+2025,Female,Manufacturing,Manufacturing,Employees,77700
+2025,Female,Manufacturing,Manufacturing,Own Account Workers,900
+2025,Female,Manufacturing,Manufacturing,Contributing Family Workers,500
+2025,Female,Construction,Construction,Employers,1400
+2025,Female,Construction,Construction,Employees,32400
+2025,Female,Construction,Construction,Own Account Workers,600
+2025,Female,Construction,Construction,Contributing Family Workers,200
+2025,Female,Services,Wholesale And Retail Trade,Employers,6400
+2025,Female,Services,Wholesale And Retail Trade,Employees,152700
+2025,Female,Services,Wholesale And Retail Trade,Own Account Workers,5300
+2025,Female,Services,Wholesale And Retail Trade,Contributing Family Workers,1600
+2025,Female,Services,Transportation And Storage,Employers,600
+2025,Female,Services,Transportation And Storage,Employees,48100
+2025,Female,Services,Transportation And Storage,Own Account Workers,3800
+2025,Female,Services,Transportation And Storage,Contributing Family Workers,200
+2025,Female,Services,Accommodation And Food Services,Employers,2900
+2025,Female,Services,Accommodation And Food Services,Employees,74500
+2025,Female,Services,Accommodation And Food Services,Own Account Workers,3600
+2025,Female,Services,Accommodation And Food Services,Contributing Family Workers,1200
+2025,Female,Services,Information And Communications,Employers,800
+2025,Female,Services,Information And Communications,Employees,51100
+2025,Female,Services,Information And Communications,Own Account Workers,2500
+2025,Female,Services,Information And Communications,Contributing Family Workers,100
+2025,Female,Services,Financial And Insurance Services,Employers,800
+2025,Female,Services,Financial And Insurance Services,Employees,113200
+2025,Female,Services,Financial And Insurance Services,Own Account Workers,9600
+2025,Female,Services,Financial And Insurance Services,Contributing Family Workers,0
+2025,Female,Services,Real Estate Services,Employers,500
+2025,Female,Services,Real Estate Services,Employees,20700
+2025,Female,Services,Real Estate Services,Own Account Workers,9300
+2025,Female,Services,Real Estate Services,Contributing Family Workers,100
+2025,Female,Services,Professional Services,Employers,2900
+2025,Female,Services,Professional Services,Employees,87600
+2025,Female,Services,Professional Services,Own Account Workers,5000
+2025,Female,Services,Professional Services,Contributing Family Workers,200
+2025,Female,Services,Administrative And Support Services,Employers,1200
+2025,Female,Services,Administrative And Support Services,Employees,53600
+2025,Female,Services,Administrative And Support Services,Own Account Workers,1600
+2025,Female,Services,Administrative And Support Services,Contributing Family Workers,100
+2025,Female,Services,Public Administration And Education,Employers,1500
+2025,Female,Services,Public Administration And Education,Employees,133100
+2025,Female,Services,Public Administration And Education,Own Account Workers,11600
+2025,Female,Services,Public Administration And Education,Contributing Family Workers,0
+2025,Female,Services,Health And Social Services,Employers,1300
+2025,Female,Services,Health And Social Services,Employees,138300
+2025,Female,Services,Health And Social Services,Own Account Workers,1800
+2025,Female,Services,Health And Social Services,Contributing Family Workers,0
+2025,Female,Services,"Arts, Entertainment And Recreation",Employers,100
+2025,Female,Services,"Arts, Entertainment And Recreation",Employees,17300
+2025,Female,Services,"Arts, Entertainment And Recreation",Own Account Workers,1000
+2025,Female,Services,"Arts, Entertainment And Recreation",Contributing Family Workers,0
+2025,Female,Services,"Other Community, Social And Personal Services",Employers,2200
+2025,Female,Services,"Other Community, Social And Personal Services",Employees,38800
+2025,Female,Services,"Other Community, Social And Personal Services",Own Account Workers,3300
+2025,Female,Services,"Other Community, Social And Personal Services",Contributing Family Workers,100
+2025,Female,Others,Others,Employers,100
+2025,Female,Others,Others,Employees,5500
+2025,Female,Others,Others,Own Account Workers,0
+2025,Female,Others,Others,Contributing Family Workers,0
